@@ -1,1 +1,297 @@
-# enhansome-compliance
+# Awesome Compliance with stars
+
+A curated list of awesome resources for Governance, Risk Management, and Compliance (GRC) professionals.
+
+This list is intended for **compliance officers, risk managers, auditors, and cybersecurity professionals** or for **people with a compliance need** who need trusted resources for **ISO 27001, SOC 2, SOX, ESG compliance, and more**.
+
+## Contents
+
+* [Frameworks & Standards](#frameworks--standards)
+  * [Security & Privacy](#security--privacy)
+  * [ESG & Sustainability](#esg--sustainability)
+  * [Financial & Corporate](#financial--corporate)
+  * [Quality & Assurance](#quality--assurance)
+  * [Risk Management](#risk-management)
+* [Legislative & Regulatory](#legislative--regulatory)
+  * [Privacy Legislation](#privacy-legislation)
+  * [EU Cybersecurity & AI Regulations](#eu-cybersecurity--ai-regulations)
+* [Tools & Platforms](#tools--platforms)
+  * [Open Source Platforms](#open-source-platforms)
+  * [Commercial Platforms](#commercial-platforms)
+  * [Compliance Specifications & Resources](#compliance-specifications--resources)
+  * [Regulatory Data Sources](#regulatory-data-sources)
+
+## Frameworks & Standards
+
+### Security & Privacy
+
+* [SOC Reports (SOC 1/2/3)](https://www.aicpa.org/soc) - AICPA Service Organization Control reports. SOC 1 for financial reporting controls, SOC 2 for security/availability/confidentiality/processing integrity/privacy controls, SOC 3 for public distribution.
+* [The Integrity Framework](https://theintegrityframework.org/framework/v1) - Product trustworthiness standard for sub-enterprise AI tools where SOC 2 does not apply. Self-mapped against six pre-build vetoes via a public INTEGRITY.md, listed in a tier-badged directory. CC BY 4.0, forkable.
+* [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - International standard for establishing an Information Security Management System (ISMS). Requires annual certification audits.
+* [ISO/IEC 27002](https://www.iso.org/standard/75652.html) - Implementation guidance for ISO 27001 controls.
+* [ISO/IEC 27017](https://www.iso.org/standard/43757.html) - Cloud security controls based on ISO 27002.
+* [ISO/IEC 27018](https://www.iso.org/standard/76559.html) - Code of practice for protecting personally identifiable information in public cloud.
+* [ISO/IEC 27701](https://www.iso.org/standard/71670.html) - Privacy Information Management System (PIMS) extension to ISO 27001.
+* [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - Voluntary risk-based model for managing cybersecurity risk (Identify, Protect, Detect, Respond, Recover).
+* [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management) - Framework for integrating security and risk management into system development lifecycle.
+* [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Security and privacy controls for federal information systems and organizations. Widely adopted beyond government.
+* [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) - Protecting Controlled Unclassified Information in nonfederal systems.
+* [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) - AI Risk Management Framework for trustworthy AI development and deployment.
+* [NIST SP 800-82](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) - Guide to Industrial Control Systems (ICS) Security for operational technology environments.
+* [NIST SP 800-160](https://csrc.nist.gov/publications/detail/sp/800-160/final) - Systems Security Engineering for developing trustworthy secure systems.
+* [NIST SP 800-161](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final) - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations.
+* [NIST SP 800-172](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172.pdf) - Enhanced Security Requirements for Protecting Controlled Unclassified Information.
+* [NIST SP 800-218](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf) - Secure Software Development Framework (SSDF) for integrating security into SDLC.
+* [NIST SP 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) - Digital Identity Guidelines for authentication and lifecycle management.
+* [NIST SP 800-66](https://csrc.nist.gov/pubs/sp/800/66/r2/final) - Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule.
+* [NIST Privacy Framework](https://www.nist.gov/privacy-framework) - Tool for improving privacy risk management.
+* [PCI DSS](https://www.pcisecuritystandards.org/) - Payment Card Industry Data Security Standard. Required for handling credit card data. Version 4.0 emphasizes continuous compliance.
+* [HIPAA](https://www.hhs.gov/hipaa/index.html) - US Health Insurance Portability and Accountability Act. Mandates safeguards for protected health information.
+* [HITRUST CSF](https://hitrustalliance.net/hitrust-csf/) - Common certifiable framework combining HIPAA, NIST, ISO, and other requirements for healthcare.
+* [HICP](https://www.phe.gov/Preparedness/planning/405d/Pages/hic-practices.aspx) - Health Industry Cybersecurity Practices for healthcare organizations (small, medium, and large practice guidance).
+* [FedRAMP](https://www.fedramp.gov/) - Federal Risk and Authorization Management Program. Required for cloud services used by US federal agencies based on NIST 800-53.
+* [CMMC](https://www.acq.osd.mil/cmmc/) - Cybersecurity Maturity Model Certification for US DoD contractors. Version 2.0 streamlines requirements.
+* [FISMA](https://www.cisa.gov/federal-information-security-modernization-act) - Federal Information Security Modernization Act for US federal agency information security.
+* [StateRAMP](https://www.stateramp.org/) - Standardized approach to cloud security for US state and local governments.
+* [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) - Family Educational Rights and Privacy Act protecting student education records.
+* [Microsoft SSPA](https://www.microsoft.com/en-us/securityengineering/sdl/) - Microsoft Security Software Privacy Assurance framework.
+* [CIS Controls](https://www.cisecurity.org/controls) - Center for Internet Security 18 Critical Security Controls (formerly 20).
+* [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks) - Configuration security benchmarks for systems and applications.
+* [CSA Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix) - Cloud Security Alliance control framework for cloud computing.
+* [MITRE ATT\&CK](https://attack.mitre.org/) - Knowledge base of adversary tactics and techniques based on real-world observations.
+* [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) - Application Security Verification Standard.
+* [CPS234](https://www.apra.gov.au/information-security) - Australian Prudential Regulation Authority information security requirements.
+* [CISA](https://www.cisa.gov/) - Cybersecurity Information Sharing Act and CISA agency resources.
+* [NERC CIP](https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx) - North American Electric Reliability Corporation Critical Infrastructure Protection standards.
+* [CJIS](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) - Criminal Justice Information Services Security Policy.
+* [Secure Control Framework](https://securecontrolsframework.com/scf-download/) - Comprehensive control framework with mappings across multiple standards and regulations.
+* [NIST National Online Informative References Program (OLIR)](https://csrc.nist.gov/projects/olir) - Machine-readable mappings between NIST frameworks and other standards.
+* [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html) - Adobe's unified control framework for compliance.
+* [Equifax Security Controls Framework](https://controlsframework.equifax.com/home) - Equifax's control framework with mappings to major standards.
+* [CIS Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator) - Tool for navigating and implementing CIS Controls.
+* [MITRE NIST 800-53 to ATT\&CK Mappings](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/) - Maps NIST security controls to adversary techniques.
+* [NIST AI RMF Crosswalks](https://airc.nist.gov/AI_RMF_Knowledge_Base/Crosswalks) - Mappings between AI RMF and other frameworks, standards, and regulations.
+* [CSF Tools](https://csf.tools/) - Tools and resources for implementing the NIST Cybersecurity Framework.
+
+### ESG & Sustainability
+
+* [B Corp Certification](https://www.bcorporation.net/) - Certification for companies meeting high standards of social and environmental performance.
+* [CDP](https://www.cdp.net/) - Carbon Disclosure Project for environmental impact reporting.
+* [GRI Standards](https://www.globalreporting.org/) - Global Reporting Initiative for sustainability reporting.
+* [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) - Environmental Management Systems.
+* [ISO 45001](https://www.iso.org/iso-45001-occupational-health-and-safety.html) - Occupational Health and Safety Management Systems.
+* [ISO 50001](https://www.iso.org/iso-50001-energy-management.html) - Energy Management Systems.
+* [SASB Standards](https://www.sasb.org/) - Sustainability Accounting Standards Board standards for ESG disclosure.
+* [TCFD](https://www.fsb-tcfd.org/) - Task Force on Climate-related Financial Disclosures recommendations.
+* [UN SDGs](https://sdgs.un.org/) - United Nations Sustainable Development Goals.
+
+### Financial & Corporate
+
+* [SOX](https://www.congress.gov/bill/107th-congress/house-bill/3763) - Sarbanes-Oxley Act for financial reporting and corporate governance.
+* [SOX ITGC](https://www.aicpa.org/) - IT General Controls for Sarbanes-Oxley compliance.
+* [Basel Framework](https://www.bis.org/basel_framework/) - International banking regulations on capital adequacy, stress testing, and market liquidity.
+* [FCRA](https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act) - Fair Credit Reporting Act regulating credit information collection and use.
+* [IFRS](https://www.ifrs.org/) - International Financial Reporting Standards for accounting and financial reporting.
+* [GLBA](https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act) - Gramm-Leach-Bliley Act requiring financial institutions to protect customer information.
+* [NYDFS](https://www.dfs.ny.gov/industry_guidance/cyber_regulations) - New York Department of Financial Services Cybersecurity Regulation (23 NYCRR 500).
+* [SWIFT CSF](https://www.swift.com/myswift/customer-security-programme-csp/security-controls) - SWIFT Customer Security Controls Framework for financial messaging and payment systems.
+* [FFIEC](https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf) - Federal Financial Institutions Examination Council cybersecurity assessment tool.
+* [FINRA](http://www.finra.org/industry/cybersecurity) - Financial Industry Regulatory Authority cybersecurity requirements for broker-dealers.
+* [SAMA CSF](https://www.sama.gov.sa/en-US/Laws/FinanceRules/SAMA%20Cyber%20Security%20Framework%20v1.0%20final_updated.pdf) - Saudi Arabian Monetary Authority Cyber Security Framework for financial sector.
+* [EBA ICT Guidelines](https://www.eba.europa.eu/regulation-and-policy/internal-governance/guidelines-on-ict-and-security-risk-management) - European Banking Authority ICT and security risk management guidelines.
+* [OFDSS](https://www.ofdss.org/) - Office of Federal Student Aid Security Standards.
+
+### Quality & Assurance
+
+* [ISO 9001](https://www.iso.org/iso-9001-quality-management.html) - Quality Management Systems standard.
+* [AS9100](https://www.sae.org/standards/content/as9100d/) - Quality management for aerospace industry.
+* [ISO 13485](https://www.iso.org/standard/59752.html) - Quality management for medical devices.
+* [ISO 22000](https://www.iso.org/iso-22000-food-safety-management.html) - Food Safety Management Systems.
+* [ISO/TS 16949](https://www.iso.org/standard/52844.html) - Quality management for automotive industry (superseded by IATF 16949).
+* [ISO 22301](https://www.iso.org/standard/75106.html) - Security and resilience business continuity management systems requirements.
+* [cGMP](https://www.fda.gov/drugs/pharmaceutical-quality-resources/current-good-manufacturing-practice-cgmp-regulations) - Current Good Manufacturing Practice for pharmaceuticals.
+* [FDA 21 CFR Part 11](https://www.gpo.gov/fdsys/pkg/CFR-2012-title21-vol1/pdf/CFR-2012-title21-vol1-part11.pdf) - Electronic records and electronic signatures in FDA-regulated industries.
+* [IEC TR 60601-4-5](https://webstore.iec.ch/publication/64703) - Medical electrical equipment cybersecurity requirements.
+* [IEC 62443-4-2](https://webstore.iec.ch/publication/34421) - Security for industrial automation and control systems technical requirements.
+* [ISO/SAE 21434](https://www.iso.org/standard/70918.html) - Road vehicles cybersecurity engineering standard.
+* [UN R155](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) - UN Regulation cybersecurity and cyber security management system for vehicles.
+* [TISAX](https://portal.enx.com/en-us/TISAX/downloads/) - Trusted Information Security Assessment Exchange for automotive industry information security assessment.
+* [ITIL](https://www.axelos.com/certifications/itil-service-management) - Information Technology Infrastructure Library for IT service management.
+* [COBIT](https://www.isaca.org/resources/cobit) - Control Objectives for Information and Related Technologies governance framework.
+* [ISO 42001](https://www.iso.org/standard/81230.html) - AI Management System standard.
+
+### Risk Management
+
+* [COSO ERM](https://www.coso.org/Pages/erm.aspx) - Committee of Sponsoring Organizations Enterprise Risk Management framework.
+* [FAIR](https://www.fairinstitute.org/) - Factor Analysis of Information Risk, quantitative risk analysis framework.
+* [ISO 27005](https://www.iso.org/standard/75281.html) - Information security risk management.
+* [ISO 31000](https://www.iso.org/iso-31000-risk-management.html) - Risk management guidelines and principles.
+* [NIST SP 800-37](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final) - Risk Management Framework for Information Systems.
+* [NIST SP 800-39](https://csrc.nist.gov/publications/detail/sp/800-39/final) - Managing Information Security Risk: Organization, Mission, and Information System View.
+* [OCTAVE](https://www.cmu.edu/sei/our-work/projects/display.cfm?customel_datapageid_4050=21281) - Operationally Critical Threat, Asset, and Vulnerability Evaluation by Carnegie Mellon.
+* [Rapid Risk Assessment](https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment) - Mozilla's lightweight risk assessment methodology.
+* [TARA](https://www.mitre.org/publications/technical-papers/threat-assessment-and-remediation-analysis-tara) - Threat Assessment and Remediation Analysis by MITRE.
+
+## Legislative & Regulatory
+
+### Privacy Legislation
+
+* [IAPP US Federal Privacy Legislation Tracker](https://iapp.org/resources/article/us-federal-privacy-legislation-tracker/) - Comprehensive tracking of 50+ federal privacy bills in the 118th Congress (2023-2024).
+* [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/) - Comprehensive tracking of state privacy legislation across all US states.
+* [CCPA/CPRA](https://oag.ca.gov/privacy/ccpa) - California Consumer Privacy Act and California Privacy Rights Act. Comprehensive consumer privacy rights including data deletion, opt-out, and transparency requirements.
+* [Virginia CDPA](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/) - Virginia Consumer Data Protection Act establishing consumer privacy rights and business obligations.
+* [Colorado CPA](https://leg.colorado.gov/bills/sb21-190) - Colorado Privacy Act providing consumer data privacy rights similar to CCPA.
+* [GDPR](https://gdpr.eu/) - EU General Data Protection Regulation governing personal data protection. Self-attestation via Data Protection Officer with demonstrated compliance.
+  * [GDPR-info.eu](https://gdpr-info.eu/) - Complete GDPR text with recitals and commentary.
+  * [GDPR Expert](https://www.gdpr-expert.com/) - GDPR compliance resources.
+  * [GDPRhub](https://gdprhub.eu/) - Free and open database of GDPR case law.
+
+### EU Cybersecurity & AI Regulations
+
+* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 22 | 🐛 26 | 🌐 Python | 📅 2026-08-12 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+* [NeuralFlow](https://github.com/omergili/neuralflow) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-08 - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
+* [Systima Comply](https://github.com/systima-ai/comply) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-25 - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
+* [AI Act Conformity Pack](https://github.com/plusultra-tools/ai-act-conformity-pack) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Generates an EU AI Act Annex IV technical-documentation skeleton from a YAML model card. Covers Articles 11-15 (records, transparency, accuracy, robustness). Python CLI, MIT licensed.
+* [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) - EU Network and Information Security Directive establishing cybersecurity requirements for critical infrastructure and digital services.
+* [EU DORA](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554\&from=EN) - Digital Operational Resilience Act for financial sector ICT risk management in the EU.
+* [ePrivacy Directive](http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=41241) - EU directive on privacy and electronic communications (under revision).
+* [ENISA Guidelines](https://resilience.enisa.europa.eu/article-13/guideline-for-minimum-security-measures/Article_13a_ENISA_Technical_Guideline_On_Security_Measures_v2_0.pdf) - European Union Agency for Network and Information Security technical guidelines and security measures.
+* [EU AI Act](https://artificialintelligenceact.eu/) - Comprehensive AI regulation with risk-based approach, prohibitions on high-risk uses, and transparency requirements. First comprehensive AI law globally.
+
+## Tools & Platforms
+
+### Open Source Platforms
+
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,389 | 🐛 241 | 🌐 Go | 📅 2026-08-13 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,581 | 🐛 262 | 🌐 Python | 📅 2026-08-13 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,140 | 🐛 94 | 🌐 Go | 📅 2026-08-10 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,788 | 🐛 295 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,339 | 🐛 107 | 🌐 Python | 📅 2026-08-13 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,859 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Comply](https://github.com/strongdm/comply) ⭐ 1,569 | 🐛 29 | 🌐 Go | 📅 2022-07-21 - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
+* [PacBot](https://github.com/tmobile/pacbot) ⭐ 1,310 | 🐛 138 | 🌐 Java | 📅 2022-12-08 - T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,295 | 🐛 69 | 🌐 Go | 📅 2026-08-13 - Open source compliance automation focused on continuous integration workflows.
+* [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 384 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
+* [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 269 | 🐛 54 | 🌐 Python | 📅 2026-08-13 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
+* [Asqav](https://github.com/jagmarques/asqav-sdk) ⭐ 268 | 🐛 0 | 🌐 Python | 📅 2026-08-13 - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
+* [Govready](https://github.com/GovReady/govready-q) ⭐ 219 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Open-source GRC platform for automated compliance assessments.
+* [Auditree Framework](https://github.com/ComplianceAsCode/auditree-framework) ⭐ 75 | 🐛 28 | 🌐 Python | 📅 2024-08-20 - IBM's framework for automated evidence collection and verification (Apache-2.0). Treats compliance checks as code with version-controlled evidence locker.
+* [Signet](https://github.com/Prismer-AI/signet) ⭐ 37 | 🐛 0 | 🌐 Rust | 📅 2026-05-28 - Cryptographic action receipts for AI agents with Ed25519 signing, hash-chained audit trail, bilateral co-signing, policy engine, and MCP proxy (Apache-2.0 / MIT). Offline-verifiable evidence for every tool call — independent of any provider. ([npm](https://www.npmjs.com/package/@signet-auth/core) | [PyPI](https://pypi.org/project/signet-auth/) | [crates.io](https://crates.io/crates/signet-core))
+* [SOC 2 Reliability Guild](https://s2guild.org/) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions. ([GitHub](https://github.com/SOC-2-Quality-Guild/s2guild.org) ⭐ 25 | 🐛 7 | 🌐 HTML | 📅 2026-02-19)
+* [Apotrope](https://github.com/hexorcist404/apotrope) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - Offline security posture auditor for Windows. Runs 50+ checks mapped to CIS Microsoft Windows Benchmarks and generates scored HTML/JSON reports.
+* [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-12 - Open-source Python SDK (Apache-2.0) for EU AI Act and ISO 42001 compliance evidence generation from ML training pipelines. Produces OSCAL Assessment Results, CycloneDX ML BOM, bias audits, and Annex IV technical documentation as a byproduct of model training.
+* [Regulus](https://github.com/neul-labs/regulus) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2026-07-02 - Open-source EU & UK compliance plane for Google ADK. Runtime `BasePlugin` suite encoding 10 regulations (EU AI Act, GDPR, DORA, NIS2, EHDS, UK GDPR, FCA SYSC, PRA SS1/23, PRA SS2/21, NHS DSPT) and 6 governance frameworks (NIST AI RMF, ISO/IEC 42001, ISO/IEC 23894, ISO/IEC 23053). Hash-chained audit envelopes with HMAC-SHA256 tamper-evident chains, PII redaction at the tool-call boundary, fail-closed data residency, dual-control kill switch, model-risk tiering, and GRC evidence adapters (ServiceNow IRM, OneTrust AI Governance, MetricStream, signed webhooks). Java 21, MIT, Maven `com.neullabs:regulus-ai-adk-plugins`. ([Maven Central](https://central.sonatype.com/namespace/com.neullabs) | [Docs](https://docs.neullabs.com))
+* [Objective320](https://objective320.com) - Free, no-signup CMMC / NIST SP 800-171 toolkit: a SPRS score calculator, an SSP generator, a POA\&M generator, and a plain-English reference to all 110 controls. Browser-based, CC BY 4.0. ([GitHub](https://github.com/BrianRDS1518/cmmc-nist-800-171-reference) ⭐ 1 | 🐛 0 | 📅 2026-06-23)
+* [CISA KEV Deadline Planner](https://kev-deadline-planner.vercel.app/) - Turner Levey. Open-source browser tool for checking CISA Known Exploited Vulnerabilities and BOD 22-01 remediation due dates without login or tracking. ([GitHub](https://github.com/Turner-Levey/kev-deadline-planner) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-05-20)
+* [CSOAI OSCAL Generator](https://github.com/CSOAI-ORG/oscal-generator-mcp) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-28 - Open-source MCP server generating Ed25519-signed, machine-readable NIST OSCAL compliance packages — offline-verifiable EU AI Act Article-12 evidence. Validates under compliance-trestle; FedRAMP RFC-0024 readiness check. Flagship of a governed-MCP fleet including 22 legacy-system bridges (COBOL/SAP/SCADA/HL7/ISO-20022) other tools do not reach (Apache-2.0).
+* [CRA SBOM Evidence](https://github.com/plusultra-tools/cra-sbom-evidence) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - EU Cyber Resilience Act Annex I Part II (1) preflight. Scores a CycloneDX or SPDX SBOM against BSI TR-03183-2 and NTIA Minimum Elements; emits an Article 14 evidence bundle for the technical file. Python, MIT.
+* [DORA ROI Validator](https://github.com/plusultra-tools/dora-roi-validator) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Validates a DORA Register of Information against the 116-field schema from ESA Implementing Regulation 2024/2956. JSON or CSV input, structured error report. Python, MIT.
+* [Openlane](https://www.theopenlane.io/) - Comprehensive compliance automation platform for SOC 2, ISO 27001, and custom frameworks (Apache-2.0). Transforms compliance from static annual process to continuous collaborative workflow with risk register, policy management, evidence lifecycle, and control validation. ([GitHub](https://github.com/theopenlane) | [Docs](https://docs.theopenlane.io/))
+* SEC filing microtools: [SEC Filing Fee Calculator](https://sec-filing-fee-calculator.vercel.app/), [Schedule 13D / 13G Deadline Calculator](https://sec-13d-13g-deadline-calculator.vercel.app/), [Form D Deadline Calculator](https://form-d-deadline-calculator.vercel.app/), and [Section 16 / Form 4 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - Browser-only MIT-licensed worksheets for common SEC filing fee estimates and deadline-planning workflows, with memo/CSV exports and a Section 16 calendar export.
+* [InSpec](https://www.inspec.io/) - Chef's compliance and security testing framework. Write automated compliance tests in Ruby DSL with pre-built profiles for CIS, DISA STIGs.
+* [OpenSCAP](https://www.open-scap.org/) - Security Content Automation Protocol toolset for automated system scanning against SCAP benchmarks (Red Hat sponsored).
+* [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Unix/Linux systems. Performs host configuration scans and generates hardening reports.
+* [Cloud Custodian](https://cloudcustodian.io/) - CNCF Sandbox rules engine for cloud compliance. Write policies in YAML to enforce and remediate violations in AWS, Azure, GCP.
+* [Steampipe](https://steampipe.io/) - Query cloud and SaaS APIs as SQL tables. Includes compliance mod packs for CIS AWS Foundations, HIPAA, PCI.
+* [OSQuery](https://osquery.io/) - Endpoint monitoring using SQL queries (Linux Foundation). Query running processes, configurations, and compliance-related data across fleet.
+* [Wazuh](https://wazuh.com/) - Open source security platform with SIEM and HIDS capabilities. Provides compliance rule sets for PCI DSS, GDPR, HIPAA with reporting.
+* [Eramba](https://www.eramba.org/) - Enterprise GRC platform with free Community Edition. Modules for compliance, risk management, incidents, vendor assessments.
+* [Kyverno](https://kyverno.io/) - Kubernetes-native policy management. Enforce, validate, and mutate configurations.
+* [OPA Gatekeeper](https://open-policy-agent.github.io/gatekeeper/) - Policy controller for Kubernetes using Open Policy Agent.
+* [Havengrc](https://havengrc.com/) - Open-source GRC platform for compliance management.
+* [GGRC Core](https://github.com/google/ggrc-core) - Google's governance, risk, and compliance platform (archived but historically significant).
+
+#### MEOK AI Labs — Signed-Attestation Open-Source MCPs
+
+* [meok-dora-compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) ⭐ 1 | 🐛 7 | 🌐 Python | 📅 2026-06-26 - DORA (Reg 2022/2554) Article 28 register, Article 26 TLPT planner, Article 18 incident classification with signed attestations.
+* [meok-eu-ai-act-compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) ⭐ 0 | 🐛 8 | 🌐 Python | 📅 2026-06-27 - EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.
+* [meok-cra-annex-iv-classifier](https://github.com/CSOAI-ORG/meok-cra-annex-iv-classifier-mcp) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-06-26 - EU CRA (Reg 2024/2847) Annex IV essential security requirements classifier.
+* [meok-nis2-de-register](https://github.com/CSOAI-ORG/meok-nis2-de-register-mcp) ⭐ 0 | 🐛 2 | 📅 2026-08-08 - Germany NIS2 BSI register Section 30/32 timelines + KRITIS classifications.
+* [meok-watermark-attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-08-08 - EU AI Act Article 50 watermarking compliance (C2PA + invisible WM + fingerprint), 2 November 2026 deadline.
+* [meok-attestation-api](https://meok-attestation-api.vercel.app) - HMAC-signed compliance attestation infrastructure used across the MEOK fleet (verifiable URLs, MIT-licensed).
+
+### Commercial Platforms
+
+* [Drata](https://drata.com/) - Cloud platform for continuous compliance monitoring and automation. Connects to tech stack for evidence collection. Supports SOC 2, ISO 27001, PCI DSS.
+* [Vanta](https://www.vanta.com/) - Compliance automation platform for SOC 2, ISO 27001. Continuous monitoring with AI-powered questionnaire responses.
+* [Secureframe](https://secureframe.com/) - End-to-end compliance platform for SOC 2, ISO 27001, HIPAA. Includes policy templates, evidence collection, training, auditor coordination.
+* [Tugboat Logic](https://www.onegrc.com/) - Security assurance platform now part of OneTrust. Automated evidence collection and audit project management.
+* [Tenable](https://www.tenable.com/) - Cloud-based and On-prem vulnerability and exposure management.
+* [Hyperproof](https://hyperproof.io/) - Compliance operations platform for ongoing risk and compliance management. Workflow automation and continuous control monitoring.
+* [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA, NIST, ISO 42001, EU AI Act, and related frameworks. Policy drafting, gap analysis, control mapping, multi-client workspaces, optional EU AI mode. Complements evidence-automation platforms rather than replacing them. Free tools hub: [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
+* [Komos](https://www.komos.ai/solutions/background-screening) - AI automation platform for regulated operations teams that need repeatable browser portal, document, and review queue workflows. Supports CRA operations, FCRA adverse action, insurance eligibility, and banking operations with run logs, screenshots, and audit trails.
+* [Sprinto](https://sprinto.com/) - Automated compliance platform for SOC 2, ISO 27001, GDPR, HIPAA.
+* [Tuning Engines](https://www.tuningengines.com/) - AI control and evidence plane for governed model, MCP, skill, and agent traffic. Captures policy decisions, approvals, cost analytics, traces, runtime state references, and outcomes for audit-ready AI operations.
+* [Ansvar Gateway](https://ansvar.eu/) - MCP gateway that connects AI agents (Claude, Copilot, ChatGPT) to European and US laws, regulations, and standards — 46 jurisdictions with paragraph-level citations to the official publisher. Compliance workflows for threat modeling, DPIA, and NIS2/DORA/CRA gap analysis with audit-ready output. (Freemium)
+* [Oneleet](https://oneleet.com/) - Continuous compliance monitoring and automation platform.
+* [Scrut](https://scrut.io/) - Automated compliance platform with integrations for real-time monitoring.
+* [Thoropass](https://thoropass.com/) - Information security and compliance software.
+* [Scorifya Controls](https://www.scorifya.com/controls) - Self-hosted SOC 2 and PCI DSS 4.0.1 readiness platform. Runs 38 automated checks against AWS, GCP, Azure, and GitHub, tracks manual controls with RFC 3161 timestamped attestations, and generates a read-only auditor portal. Deploys via Docker so compliance evidence stays on your own infrastructure.
+* [AuditBoard](https://www.auditboard.com/) - Leading platform for audit and compliance management. One-stop solution for managing audits, controls, risks, and reporting.
+* [Archer](https://www.archerirm.com/) - RSA's GRC platform widely used in enterprises.
+* [LogicGate](https://www.logicgate.com/) - Risk Cloud platform tailored for IT Risk, Compliance, Third-Party Risk.
+* [MetricStream](https://www.metricstream.com/) - Enterprise GRC platform for integrated risk management.
+* [Onspring](https://onspring.com/) - No-code GRC platform for risk, compliance, and audit management.
+* [OneTrust](https://www.onetrust.com/) - Privacy, security, and data governance platform. Extensive GRC suite including Vendorpedia.
+* [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-compliance.html) - Integrated risk and compliance management on ServiceNow platform.
+* [TrustCloud](https://trustcloud.ai/) - GRC platform with free trust center offering. Compliance tracking with integrations. (Freemium)
+* [Benchmark ESG](https://www.benchmarkesg.com/) - ESG data management and reporting platform.
+* [Diligent ESG](https://www.diligent.com/solutions/esg) - ESG governance and reporting solution.
+* [Locus Technologies](https://www.locustec.com/) - Environmental, health, safety, and sustainability management software.
+* [Novata](https://www.novata.com/) - ESG data management for private markets.
+* [Novisto](https://www.novisto.com/) - ESG reporting automation platform.
+* [Proof](https://www.proof.com/) - ESG performance management platform.
+* [Sametrica](https://www.sametrica.com/) - ESG impact measurement software.
+* [Workiva](https://www.workiva.com/) - Cloud platform for ESG, financial, and compliance reporting.
+* [TrustYourWebsite](https://trustyourwebsite.com) - Deterministic GDPR/cookie scanner for EU and UK SMBs. DOM queries, regex, axe-core, HTTP checks. LLM use restricted to report copy, not the compliance checks themselves.
+* [heygrc](https://heygrc.com/) - GitHub App that reviews pull requests against the compliance frameworks an organization must meet (ISO 27001, SOC 2, GDPR, EU AI Act, and more) and flags control-relevant changes inline, citing the specific control clause. By ISMS Copilot.
+* [FacturaDesk](https://facturadesk.eu/) - Done-for-you Peppol e-invoicing registration for Belgian businesses, ahead of Belgium's mandatory B2B e-invoicing rules. Includes a free public Peppol registration checker.
+
+### Compliance Specifications & Resources
+
+* [AWS Artifact](https://aws.amazon.com/artifact/) - Access AWS compliance reports (SOC, ISO, PCI, etc.).
+* [Azure Compliance](https://learn.microsoft.com/en-us/azure/compliance/) - Microsoft Azure compliance documentation and reports.
+* [GCP Compliance](https://cloud.google.com/security/compliance) - Google Cloud compliance resources and certifications.
+* [OpenRegistry](https://openregistry.sophymarine.com) - Real-time MCP-server access to 27 national company registries for KYC / UBO / cross-border due-diligence. Includes UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, and 21 others.
+* [Unified Compliance Framework](https://www.unifiedcompliance.com/) - Common Controls Hub with 1000+ mapped authorities (Commercial).
+* [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
+* [PRML (Pre-Registered ML Manifest)](https://spec.falsify.dev/v0.1) - Open format binding an ML evaluation claim to a SHA-256 hash before the run, for tamper-evident EU AI Act Article 12/15 evidence. Four byte-equivalent reference implementations; CC BY 4.0.
+* [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
+* [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
+* [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
+* [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) - Pay-per-call web search API for building regulatory research agents. Researches regulations, compliance requirements, and recent enforcement actions across live web sources, generating structured briefs with compliance checklists and penalty-exposure summaries. Structured JSON output, no signup or subscription.
+* [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) ⭐ 4 | 🐛 0 | 📅 2026-06-29 - Curated reference list of international standards, frameworks, and certification bodies for organizations, spanning ISO 9001/27001/14001, GDPR, PCI DSS, SOX, AS9100, ISO 13485, and sector-specific compliance.
+* [SSKG Hub](https://www.sskg-hub.com/) - Expert-guided platform that turns sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) into auditable, provenance-linked knowledge graphs — LLM-extracted, expert-certified, machine-queryable representations of the standards themselves ([paper](https://arxiv.org/abs/2603.00669)).
+
+### Regulatory Data Sources
+
+Programmatic access to regulatory filings, corporate disclosures, and government registries for KYC/AML due diligence, ESG compliance, disclosure monitoring, and beneficial-owner verification.
+
+#### United States
+
+* [FilingFirehose](https://filingfirehose.com) - Risk-scored REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3). Free tier with red-flag classification (going-concern, restatement, cyber, officer departure, dilution) and per-ticker AI analysis reports. Companion open-source classifier at [buried-events-parser](https://github.com/jaablon/buried-events-parser) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-19 (MIT). Useful for continuous monitoring of vendor / portfolio-company disclosures and SOX/audit workflow triggers.
+
+#### Europe
+
+European government registries that lack public APIs - pay-per-use scrapers for KYC/AML due diligence, beneficial-owner verification, debtor and insolvency screening, and ESG compliance. Structured JSON output, no monthly subscription. All published on Apify Store under [@minute\_contest](https://apify.com/minute_contest).
+
+* [Poland KRS Financial Statements Scraper](https://apify.com/minute_contest/poland-krs-financial-scraper) - Structured balance sheets and income statements parsed from the Polish National Court Register (KRS). Pay-per-use programmatic alternative to manual eKRS PDF lookups.
+* [Poland CRBR Beneficial Owners Scraper](https://apify.com/minute_contest/crbr-beneficial-owners-scraper) - UBO verification from the Central Register of Beneficial Owners. Relevant to EU 6AMLD beneficial-owner due diligence.
+* [Poland KRZ National Debtor Registry Scraper](https://apify.com/minute_contest/krz-debtor-scraper) - Bankruptcy, restructuring, and enforcement-proceedings screening across 9 search modes.
+* [Poland EKW Land Registry Scraper](https://apify.com/minute_contest/ekw-ksiegi-wieczyste-scraper) - Property ownership and mortgage records from księgi wieczyste.
+* [Poland KRS Board Members Scraper](https://apify.com/minute_contest/krs-fullnames-scraper) - Non-anonymized director and board-member names (the official KRS API censors them).
+* [Poland UOKiK Abusive Clauses Scraper](https://apify.com/minute_contest/uokik-clauses-scraper) - 7,500+ prohibited consumer-contract clauses for contract review.
+* [Poland MSiG Court Gazette Scraper](https://apify.com/minute_contest/msig-scraper) - 20+ years of Polish court announcements (Monitor Sądowy i Gospodarczy).
+* [Poland KNF Financial Registry Scraper](https://apify.com/minute_contest/knf-registry-scraper) - 75,000+ supervised financial entities from the Polish Financial Supervision Authority.
+* [Poland BDO Waste Registry Scraper](https://apify.com/minute_contest/bdo-waste-registry-scraper) - 674,000+ waste-management entities for ESG and environmental compliance.
+* [Spain BORME Corporate Acts Parser](https://apify.com/minute_contest/borme-corporate-acts-scraper) - Structured corporate-acts data parsed from Spain's official gazette (BORME) PDFs.
+* [Spain Company Directory Scraper (Registro Mercantil)](https://apify.com/minute_contest/spain-company-directory-scraper) - NIF, officers, and CNAE codes from Registro Mercantil open data.
+* [Austria Ediktsdatei Insolvency Scraper](https://apify.com/minute_contest/austria-ediktsdatei-scraper) - Bankruptcies and reorganizations (the official API requires an IWG license).
+* [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
+* [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
