@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:55:17Z",
+            "last_commit": "2026-08-14T12:20:40Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37389
+            "stars": 37404
           }
         },
         {
@@ -102,10 +102,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:06:27Z",
+            "last_commit": "2026-08-14T13:45:17Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14581
+            "stars": 14586
           }
         },
         {
@@ -119,7 +119,7 @@
             "last_commit": "2026-08-10T19:35:30Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8140
+            "stars": 8141
           }
         },
         {
@@ -144,10 +144,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:45:58Z",
+            "last_commit": "2026-08-14T21:33:16Z",
             "owner": "intuitem",
             "repo": "ciso-assistant-community",
-            "stars": 4339
+            "stars": 4340
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2026-08-09T20:14:07Z",
             "owner": "trycompai",
             "repo": "comp",
-            "stars": 1859
+            "stars": 1861
           }
         },
         {
@@ -200,10 +200,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T17:33:54Z",
+            "last_commit": "2026-08-14T17:39:22Z",
             "owner": "getprobo",
             "repo": "probo",
-            "stars": 1295
+            "stars": 1298
           }
         },
         {
@@ -222,20 +222,6 @@
         },
         {
           "node_type": "item",
-          "title": "Trestle",
-          "description": "IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T11:52:53Z",
-            "owner": "oscal-compass",
-            "repo": "compliance-trestle",
-            "stars": 269
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Asqav",
           "description": "Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.",
           "children": [],
@@ -245,7 +231,21 @@
             "last_commit": "2026-08-13T14:13:42Z",
             "owner": "jagmarques",
             "repo": "asqav-sdk",
-            "stars": 268
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trestle",
+          "description": "IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T09:29:01Z",
+            "owner": "oscal-compass",
+            "repo": "compliance-trestle",
+            "stars": 269
           }
         },
         {
@@ -312,7 +312,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:02:38Z",
+            "last_commit": "2026-08-14T21:34:17Z",
             "owner": "hexorcist404",
             "repo": "apotrope",
             "stars": 10
@@ -326,7 +326,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T07:22:43Z",
+            "last_commit": "2026-08-14T07:47:38Z",
             "owner": "Venturalitica",
             "repo": "venturalitica-sdk",
             "stars": 6
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:27:42.180Z",
+    "last_updated": "2026-08-14T22:09:13.413Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
     "enhanced_repository": "enhansome/enhansome-compliance",
