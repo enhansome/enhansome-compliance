@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:46:08Z",
+            "last_commit": "2026-08-15T22:16:02Z",
             "owner": "airblackbox",
             "repo": "airblackbox",
             "stars": 22
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-14T12:20:40Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37419
+            "stars": 37434
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-14T13:45:17Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14589
+            "stars": 14595
           }
         },
         {
@@ -119,7 +119,7 @@
             "last_commit": "2026-08-10T19:35:30Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8141
+            "stars": 8143
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7789
+            "stars": 7790
           }
         },
         {
@@ -144,10 +144,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:49:19Z",
+            "last_commit": "2026-08-16T19:58:07Z",
             "owner": "intuitem",
             "repo": "ciso-assistant-community",
-            "stars": 4345
+            "stars": 4346
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2026-08-09T20:14:07Z",
             "owner": "trycompai",
             "repo": "comp",
-            "stars": 1864
+            "stars": 1867
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-13T14:13:42Z",
             "owner": "jagmarques",
             "repo": "asqav-sdk",
-            "stars": 296
+            "stars": 310
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-14T09:29:01Z",
             "owner": "oscal-compass",
             "repo": "compliance-trestle",
-            "stars": 270
+            "stars": 271
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2026-02-19T02:04:15Z",
             "owner": "SOC-2-Quality-Guild",
             "repo": "s2guild.org",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -312,7 +312,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T03:32:49Z",
+            "last_commit": "2026-08-16T14:27:34Z",
             "owner": "hexorcist404",
             "repo": "apotrope",
             "stars": 10
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:02:38.132Z",
+    "last_updated": "2026-08-16T22:02:27.831Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
     "enhanced_repository": "enhansome/enhansome-compliance",
