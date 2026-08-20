@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 1158158516,
                 "language": "Python",
-                "last_commit": "2026-08-15T22:16:02Z",
+                "last_commit": "2026-08-20T18:04:21Z",
                 "owner": "airblackbox",
                 "repo": "airblackbox",
                 "stars": 22
@@ -87,10 +87,10 @@
                 "archived": false,
                 "id": 180687624,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:08:28Z",
+                "last_commit": "2026-08-20T14:52:27Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37509
+                "stars": 37529
               }
             },
             {
@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:03:26Z",
+                "last_commit": "2026-08-20T15:59:55Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14624
+                "stars": 14633
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7795
+                "stars": 7793
               }
             },
             {
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:26:14Z",
+                "last_commit": "2026-08-20T21:51:43Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4356
+                "stars": 4361
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-09T20:14:07Z",
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1874
+                "stars": 1875
               }
             },
             {
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 913434583,
                 "language": "Go",
-                "last_commit": "2026-08-19T21:15:35Z",
+                "last_commit": "2026-08-20T22:11:03Z",
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1300
+                "stars": 1304
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-13T14:13:42Z",
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 335
+                "stars": 343
               }
             },
             {
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-17T18:21:21Z",
+                "last_commit": "2026-08-20T21:14:47Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 271
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1184462253,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:35:06Z",
+                "last_commit": "2026-08-20T20:07:14Z",
                 "owner": "hexorcist404",
                 "repo": "apotrope",
                 "stars": 10
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:10:48.786Z",
+    "last_updated": "2026-08-20T22:12:39.370Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_id": 1067351105,
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
