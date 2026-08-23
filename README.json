@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-21T13:35:07Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37559
+                "stars": 37573
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-22T20:33:52Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14649
+                "stars": 14660
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7795
+                "stars": 7796
               }
             },
             {
@@ -147,7 +147,7 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-22T07:30:38Z",
+                "last_commit": "2026-08-23T21:56:16Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
                 "stars": 4367
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-09T20:14:07Z",
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1887
+                "stars": 1890
               }
             },
             {
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 913434583,
                 "language": "Go",
-                "last_commit": "2026-08-22T18:52:05Z",
+                "last_commit": "2026-08-23T20:25:28Z",
                 "owner": "getprobo",
                 "repo": "probo",
                 "stars": 1307
@@ -225,7 +225,7 @@
                 "last_commit": "2026-02-16T18:30:02Z",
                 "owner": "opencontrol",
                 "repo": "compliance-masonry",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-13T14:13:42Z",
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 357
+                "stars": 361
               }
             },
             {
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1184462253,
                 "language": "Python",
-                "last_commit": "2026-08-22T14:43:59Z",
+                "last_commit": "2026-08-23T20:13:53Z",
                 "owner": "hexorcist404",
                 "repo": "apotrope",
                 "stars": 10
@@ -481,7 +481,7 @@
                     "language": "Python",
                     "last_commit": "2026-06-26T05:35:05Z",
                     "owner": "CSOAI-ORG",
-                    "repo": "meok-cra-annex-iv-classifier-mcp",
+                    "repo": "csoai-cra-annex-iv-classifier-mcp",
                     "stars": 0
                   }
                 },
@@ -496,7 +496,7 @@
                     "language": null,
                     "last_commit": "2026-08-22T09:04:07Z",
                     "owner": "CSOAI-ORG",
-                    "repo": "meok-nis2-de-register-mcp",
+                    "repo": "csoai-nis2-de-register-mcp",
                     "stars": 0
                   }
                 },
@@ -511,7 +511,7 @@
                     "language": "Python",
                     "last_commit": "2026-08-08T13:54:30Z",
                     "owner": "CSOAI-ORG",
-                    "repo": "meok-watermark-attest-mcp",
+                    "repo": "csoai-watermark-attest-mcp",
                     "stars": 0
                   }
                 }
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:05:52.119Z",
+    "last_updated": "2026-08-23T22:04:45.220Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_id": 1067351105,
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
