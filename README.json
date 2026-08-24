@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-21T13:35:07Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37573
+                "stars": 37586
               }
             },
             {
@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-22T20:33:52Z",
+                "last_commit": "2026-08-24T14:19:02Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14660
+                "stars": 14666
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-18T08:46:23Z",
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8148
+                "stars": 8150
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7796
+                "stars": 7798
               }
             },
             {
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-23T21:56:16Z",
+                "last_commit": "2026-08-24T12:13:34Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4367
+                "stars": 4368
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-09T20:14:07Z",
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1890
+                "stars": 1892
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2022-07-21T08:02:53Z",
                 "owner": "strongdm",
                 "repo": "comply",
-                "stars": 1571
+                "stars": 1574
               }
             },
             {
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 913434583,
                 "language": "Go",
-                "last_commit": "2026-08-23T20:25:28Z",
+                "last_commit": "2026-08-24T14:31:37Z",
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1307
+                "stars": 1309
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-13T14:13:42Z",
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 361
+                "stars": 365
               }
             },
             {
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:42:54Z",
+                "last_commit": "2026-08-24T14:36:16Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 271
@@ -327,10 +327,10 @@
                 "archived": false,
                 "id": 1184462253,
                 "language": "Python",
-                "last_commit": "2026-08-23T20:13:53Z",
+                "last_commit": "2026-08-24T14:27:33Z",
                 "owner": "hexorcist404",
                 "repo": "apotrope",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -524,13 +524,64 @@
           "description": null,
           "node_type": "group",
           "title": "Open Source Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Corporate Standards",
+              "description": "Curated reference list of international standards, frameworks, and certification bodies for organizations, spanning ISO 9001/27001/14001, GDPR, PCI DSS, SOX, AS9100, ISO 13485, and sector-specific compliance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1229604825,
+                "language": null,
+                "last_commit": "2026-06-29T17:52:19Z",
+                "owner": "openapi",
+                "repo": "awesome-corporate-standards",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compliance Specifications & Resources"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FilingFirehose",
+                  "description": "Risk-scored REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3). Free tier with red-flag classification (going-concern, restatement, cyber, officer departure, dilution) and per-ticker AI analysis reports. Companion open-source classifier at buried-events-parser (MIT). Useful for continuous monitoring of vendor / portfolio-company disclosures and SOX/audit workflow triggers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1273668945,
+                    "language": "Python",
+                    "last_commit": "2026-06-19T01:50:36Z",
+                    "owner": "jaablon",
+                    "repo": "buried-events-parser",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "United States"
+            }
+          ],
+          "description": "Programmatic access to regulatory filings, corporate disclosures, and government registries for KYC/AML due diligence, ESG compliance, disclosure monitoring, and beneficial-owner verification.",
+          "node_type": "group",
+          "title": "Regulatory Data Sources"
         }
       ],
       "title": "Tools & Platforms"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:04:45.220Z",
+    "last_updated": "2026-08-24T14:44:07.066Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_id": 1067351105,
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
