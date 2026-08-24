@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-21T13:35:07Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37586
+                "stars": 37591
               }
             },
             {
@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:19:02Z",
+                "last_commit": "2026-08-24T19:26:07Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14666
+                "stars": 14668
               }
             },
             {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 94779471,
                 "language": "Go",
-                "last_commit": "2026-08-18T08:46:23Z",
+                "last_commit": "2026-08-24T19:32:49Z",
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8150
+                "stars": 8151
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7798
+                "stars": 7799
               }
             },
             {
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:13:34Z",
+                "last_commit": "2026-08-24T16:11:00Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4368
+                "stars": 4369
               }
             },
             {
@@ -185,6 +185,21 @@
             },
             {
               "node_type": "item",
+              "title": "Probo",
+              "description": "Open source compliance automation focused on continuous integration workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 913434583,
+                "language": "Go",
+                "last_commit": "2026-08-24T19:38:45Z",
+                "owner": "getprobo",
+                "repo": "probo",
+                "stars": 1311
+              }
+            },
+            {
+              "node_type": "item",
               "title": "PacBot",
               "description": "T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.",
               "children": [],
@@ -196,21 +211,6 @@
                 "owner": "tmobile",
                 "repo": "pacbot",
                 "stars": 1310
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Probo",
-              "description": "Open source compliance automation focused on continuous integration workflows.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 913434583,
-                "language": "Go",
-                "last_commit": "2026-08-24T14:31:37Z",
-                "owner": "getprobo",
-                "repo": "probo",
-                "stars": 1309
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-13T14:13:42Z",
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 365
+                "stars": 371
               }
             },
             {
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:36:16Z",
+                "last_commit": "2026-08-24T18:27:51Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 271
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1184462253,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:27:33Z",
+                "last_commit": "2026-08-24T21:49:47Z",
                 "owner": "hexorcist404",
                 "repo": "apotrope",
                 "stars": 11
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:07.066Z",
+    "last_updated": "2026-08-24T22:11:22.349Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_id": 1067351105,
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
