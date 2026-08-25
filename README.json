@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-21T13:35:07Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37591
+                "stars": 37596
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-24T19:26:07Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14668
+                "stars": 14671
               }
             },
             {
@@ -147,7 +147,7 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:11:00Z",
+                "last_commit": "2026-08-25T05:53:33Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
                 "stars": 4369
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-09T20:14:07Z",
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1892
+                "stars": 1893
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-24T19:38:45Z",
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1311
+                "stars": 1312
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-13T14:13:42Z",
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 371
+                "stars": 374
               }
             },
             {
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1184462253,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:49:47Z",
+                "last_commit": "2026-08-24T22:48:36Z",
                 "owner": "hexorcist404",
                 "repo": "apotrope",
                 "stars": 11
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:11:22.349Z",
+    "last_updated": "2026-08-25T06:37:27.347Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_id": 1067351105,
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
