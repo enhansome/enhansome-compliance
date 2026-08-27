@@ -162,16 +162,16 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,638 | 🐛 259 | 🌐 Go | 📅 2026-08-21 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,688 | 🐛 285 | 🌐 Python | 📅 2026-08-26 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,155 | 🐛 95 | 🌐 Go | 📅 2026-08-24 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,801 | 🐛 296 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,376 | 🐛 103 | 🌐 Python | 📅 2026-08-26 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,899 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,651 | 🐛 261 | 🌐 Go | 📅 2026-08-21 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,692 | 🐛 280 | 🌐 Python | 📅 2026-08-27 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,157 | 🐛 95 | 🌐 Go | 📅 2026-08-24 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,802 | 🐛 296 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,377 | 🐛 113 | 🌐 Python | 📅 2026-08-27 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,899 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
 * [Comply](https://github.com/strongdm/comply) ⭐ 1,577 | 🐛 29 | 🌐 Go | 📅 2022-07-21 - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,315 | 🐛 80 | 🌐 Go | 📅 2026-08-26 - Open source compliance automation focused on continuous integration workflows.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,316 | 🐛 82 | 🌐 Go | 📅 2026-08-27 - Open source compliance automation focused on continuous integration workflows.
 * [PacBot](https://github.com/tmobile/pacbot) ⭐ 1,310 | 🐛 138 | 🌐 Java | 📅 2022-12-08 - T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.
-* [Asqav](https://github.com/jagmarques/asqav-sdk) ⭐ 390 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
+* [Asqav](https://github.com/jagmarques/asqav-sdk) ⭐ 394 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 385 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 273 | 🐛 45 | 🌐 Python | 📅 2026-08-26 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Govready](https://github.com/GovReady/govready-q) ⭐ 219 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Open-source GRC platform for automated compliance assessments.
