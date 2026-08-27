@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-21T13:35:07Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37608
+                "stars": 37638
               }
             },
             {
@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:32:35Z",
+                "last_commit": "2026-08-26T17:49:07Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14677
+                "stars": 14688
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-24T19:32:49Z",
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8151
+                "stars": 8155
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7800
+                "stars": 7801
               }
             },
             {
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:51:18Z",
+                "last_commit": "2026-08-26T20:45:26Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4372
+                "stars": 4376
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-09T20:14:07Z",
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1895
+                "stars": 1899
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2022-07-21T08:02:53Z",
                 "owner": "strongdm",
                 "repo": "comply",
-                "stars": 1575
+                "stars": 1577
               }
             },
             {
@@ -192,10 +192,10 @@
                 "archived": false,
                 "id": 913434583,
                 "language": "Go",
-                "last_commit": "2026-08-25T20:58:57Z",
+                "last_commit": "2026-08-26T22:00:01Z",
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1313
+                "stars": 1315
               }
             },
             {
@@ -215,6 +215,21 @@
             },
             {
               "node_type": "item",
+              "title": "Asqav",
+              "description": "Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134058397,
+                "language": "Python",
+                "last_commit": "2026-08-26T19:22:11Z",
+                "owner": "jagmarques",
+                "repo": "asqav-sdk",
+                "stars": 390
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Compliance Masonry",
               "description": "CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.",
               "children": [],
@@ -230,21 +245,6 @@
             },
             {
               "node_type": "item",
-              "title": "Asqav",
-              "description": "Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1134058397,
-                "language": "Python",
-                "last_commit": "2026-08-13T14:13:42Z",
-                "owner": "jagmarques",
-                "repo": "asqav-sdk",
-                "stars": 379
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Trestle",
               "description": "IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.",
               "children": [],
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:51:46Z",
+                "last_commit": "2026-08-26T09:48:47Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
-                "stars": 271
+                "stars": 273
               }
             },
             {
@@ -300,7 +300,7 @@
                 "last_commit": "2026-05-28T10:31:10Z",
                 "owner": "Prismer-AI",
                 "repo": "signet",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:11:22.608Z",
+    "last_updated": "2026-08-27T02:16:36.896Z",
     "original_repository": "theopenlane/awesome-compliance",
     "original_repository_id": 1067351105,
     "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
