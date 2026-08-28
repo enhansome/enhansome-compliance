@@ -18,7 +18,8 @@
                 "owner": "airblackbox",
                 "repo": "airblackbox",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "omergili",
                 "repo": "neuralflow",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "systima-ai",
                 "repo": "comply",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "plusultra-tools",
                 "repo": "ai-act-conformity-pack",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             }
           ],
           "description": null,
@@ -87,11 +91,12 @@
                 "archived": false,
                 "id": 180687624,
                 "language": "Go",
-                "last_commit": "2026-08-21T13:35:07Z",
+                "last_commit": "2026-08-27T14:53:48Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37651
-              }
+                "stars": 37667
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -102,11 +107,12 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:28:19Z",
+                "last_commit": "2026-08-27T19:18:06Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14692
-              }
+                "stars": 14701
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
                 "stars": 8157
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
                 "stars": 7802
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -147,11 +155,12 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:59:13Z",
+                "last_commit": "2026-08-27T18:14:17Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4377
-              }
+                "stars": 4380
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -165,8 +174,9 @@
                 "last_commit": "2026-08-09T20:14:07Z",
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1899
-              }
+                "stars": 1901
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -180,8 +190,9 @@
                 "last_commit": "2022-07-21T08:02:53Z",
                 "owner": "strongdm",
                 "repo": "comply",
-                "stars": 1577
-              }
+                "stars": 1576
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -192,11 +203,12 @@
                 "archived": false,
                 "id": 913434583,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:10:52Z",
+                "last_commit": "2026-08-28T05:49:40Z",
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1316
-              }
+                "stars": 1317
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "tmobile",
                 "repo": "pacbot",
                 "stars": 1310
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -222,11 +235,12 @@
                 "archived": false,
                 "id": 1134058397,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:33:05Z",
+                "last_commit": "2026-08-27T13:33:49Z",
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 394
-              }
+                "stars": 400
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "opencontrol",
                 "repo": "compliance-masonry",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -252,11 +267,12 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:48:47Z",
+                "last_commit": "2026-08-27T19:35:44Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "GovReady",
                 "repo": "govready-q",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "ComplianceAsCode",
                 "repo": "auditree-framework",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "Prismer-AI",
                 "repo": "signet",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "SOC-2-Quality-Guild",
                 "repo": "s2guild.org",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "hexorcist404",
                 "repo": "apotrope",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -342,11 +363,12 @@
                 "archived": false,
                 "id": 1137475130,
                 "language": "Python",
-                "last_commit": "2026-08-14T07:47:38Z",
+                "last_commit": "2026-08-27T14:48:41Z",
                 "owner": "Venturalitica",
                 "repo": "venturalitica-sdk",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "neul-labs",
                 "repo": "regulus",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "BrianRDS1518",
                 "repo": "cmmc-nist-800-171-reference",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "Turner-Levey",
                 "repo": "kev-deadline-planner",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "CSOAI-ORG",
                 "repo": "oscal-generator-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "plusultra-tools",
                 "repo": "cra-sbom-evidence",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "node_type": "item",
@@ -436,10 +463,27 @@
                 "owner": "plusultra-tools",
                 "repo": "dora-roi-validator",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "meok-eu-ai-act-compliance",
+                  "description": "EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1209275327,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T14:24:39Z",
+                    "owner": "CSOAI-ORG",
+                    "repo": "eu-ai-act-compliance-mcp",
+                    "stars": 1
+                  },
+                  "first_seen": "2026-08-28T05:50:28.670Z"
+                },
                 {
                   "node_type": "item",
                   "title": "meok-dora-compliance",
@@ -453,22 +497,8 @@
                     "owner": "CSOAI-ORG",
                     "repo": "dora-compliance-mcp",
                     "stars": 1
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "meok-eu-ai-act-compliance",
-                  "description": "EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1209275327,
-                    "language": "Python",
-                    "last_commit": "2026-08-19T14:24:39Z",
-                    "owner": "CSOAI-ORG",
-                    "repo": "eu-ai-act-compliance-mcp",
-                    "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:28.670Z"
                 },
                 {
                   "node_type": "item",
@@ -483,7 +513,8 @@
                     "owner": "CSOAI-ORG",
                     "repo": "csoai-cra-annex-iv-classifier-mcp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:28.670Z"
                 },
                 {
                   "node_type": "item",
@@ -498,7 +529,8 @@
                     "owner": "CSOAI-ORG",
                     "repo": "csoai-nis2-de-register-mcp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:28.670Z"
                 },
                 {
                   "node_type": "item",
@@ -513,7 +545,8 @@
                     "owner": "CSOAI-ORG",
                     "repo": "csoai-watermark-attest-mcp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:28.670Z"
                 }
               ],
               "description": null,
@@ -540,7 +573,8 @@
                 "owner": "openapi",
                 "repo": "awesome-corporate-standards",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:50:28.670Z"
             }
           ],
           "description": null,
@@ -564,7 +598,8 @@
                     "owner": "jaablon",
                     "repo": "buried-events-parser",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:28.670Z"
                 }
               ],
               "description": null,
@@ -581,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:33.373Z",
+    "last_updated": "2026-08-28T05:50:28.670Z",
     "original_repository_info": {
       "archived": false,
       "id": 1067351105,
