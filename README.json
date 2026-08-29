@@ -12,12 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source EU AI Act compliance scanner. 51 checks across Articles 9-12, 14-15. Drop-in trust layers for LangChain, CrewAI, AutoGen, OpenAI. Local-first, no data leaves your machine.",
+                "homepage": "https://airblackbox.ai",
                 "id": 1158158516,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T18:04:21Z",
+                "open_issues": 25,
                 "owner": "airblackbox",
                 "repo": "airblackbox",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "accountability",
+                  "ai",
+                  "ai-agents",
+                  "ai-governance",
+                  "ai-safety",
+                  "aibom",
+                  "audit",
+                  "compliance",
+                  "eu-ai-act",
+                  "genai",
+                  "golang",
+                  "llm",
+                  "observability",
+                  "openai",
+                  "opentelemetry",
+                  "otel",
+                  "python",
+                  "security",
+                  "shadow-ai"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -28,12 +53,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI transparency badge for websites. One script tag. EU AI Act ready. 4.6 KB. Zero cookies. Built by AI.",
+                "homepage": "https://neuralflow.mylurch.com",
                 "id": 1187887882,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-08T09:20:35Z",
+                "open_issues": 7,
                 "owner": "omergili",
                 "repo": "neuralflow",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "ai-act",
+                  "ai-compliance",
+                  "ai-disclosure",
+                  "ai-transparency",
+                  "article-50",
+                  "badge",
+                  "compliance",
+                  "eu-ai-act",
+                  "javascript",
+                  "npm-package",
+                  "open-source",
+                  "transparency",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -44,12 +88,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EU AI Act compliance scanning for CI/CD pipelines",
+                "homepage": null,
                 "id": 1181524470,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-25T19:56:25Z",
+                "open_issues": 0,
                 "owner": "systima-ai",
                 "repo": "comply",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -60,12 +109,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emit EU AI Act Annex IV technical-documentation + FRIA evidence-pack scaffolds with verbatim-cited regulatory text and a hash-chained manifest. OSS Python CLI + GitHub Action.",
+                "homepage": "https://github.com/plusultra-tools/ai-act-conformity-pack",
                 "id": 1239821789,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-19T12:21:37Z",
+                "open_issues": 0,
                 "owner": "plusultra-tools",
                 "repo": "ai-act-conformity-pack",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-act",
+                  "annex-iv",
+                  "cli",
+                  "compliance",
+                  "conformity",
+                  "eu-regulation",
+                  "evidence-pack",
+                  "fria"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             }
@@ -89,12 +152,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+                "homepage": "https://trivy.dev",
                 "id": 180687624,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T12:50:22Z",
+                "open_issues": 258,
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37679
+                "stars": 37679,
+                "topics": [
+                  "containers",
+                  "devsecops",
+                  "docker",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "iac",
+                  "infrastructure-as-code",
+                  "kubernetes",
+                  "misconfiguration",
+                  "security",
+                  "security-tools",
+                  "vulnerability",
+                  "vulnerability-detection",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -105,12 +189,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
+                "homepage": "https://prowler.com",
                 "id": 66474729,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:17:40Z",
+                "open_issues": 337,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14713
+                "stars": 14713,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cis-benchmark",
+                  "cloud",
+                  "cloudsecurity",
+                  "compliance",
+                  "cspm",
+                  "devsecops",
+                  "forensics",
+                  "gcp",
+                  "gdpr",
+                  "hacktoberfest",
+                  "hardening",
+                  "iam",
+                  "multi-cloud",
+                  "python",
+                  "security",
+                  "security-audit",
+                  "security-hardening",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -121,12 +231,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+                "homepage": null,
                 "id": 94779471,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T19:32:49Z",
+                "open_issues": 96,
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8160
+                "stars": 8160,
+                "topics": [
+                  "cis-benchmark",
+                  "cis-kubernetes-benchmark",
+                  "cis-security",
+                  "hacktoberfest",
+                  "kube-bench",
+                  "kubernetes",
+                  "kubernetes-security",
+                  "openshift"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -137,12 +261,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Cloud Security Auditing Tool",
+                "homepage": null,
                 "id": 155376283,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-09-23T18:33:52Z",
+                "open_issues": 296,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7803
+                "stars": 7803,
+                "topics": [
+                  "auditing",
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "gcp",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -153,12 +289,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA, GDPR, HIPAA, CMMC, and more.",
+                "homepage": "https://intuitem.com",
                 "id": 694266896,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T03:22:27Z",
+                "open_issues": 115,
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4380
+                "stars": 4380,
+                "topics": [
+                  "audit",
+                  "automation",
+                  "bsi",
+                  "cis",
+                  "compliance",
+                  "cybersecurity",
+                  "dora",
+                  "ebios-rm",
+                  "gdpr",
+                  "grc",
+                  "isms",
+                  "iso27001",
+                  "llm",
+                  "mcp",
+                  "nis2",
+                  "nist",
+                  "quantification",
+                  "risk-management",
+                  "security",
+                  "soc2"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -169,12 +331,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Native platform to get companies compliant - Vanta & Drata Alternative",
+                "homepage": "https://trycomp.ai",
                 "id": 917358773,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-09T20:14:07Z",
+                "open_issues": 29,
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1902
+                "stars": 1902,
+                "topics": [
+                  "ai",
+                  "audit",
+                  "authjs",
+                  "compliance",
+                  "drata",
+                  "gdpr",
+                  "iso27001",
+                  "nextjs",
+                  "open",
+                  "open-source",
+                  "prisma",
+                  "security",
+                  "soc2",
+                  "t3-stack",
+                  "tailwindcss",
+                  "turborepo",
+                  "vanta",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -185,12 +371,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compliance automation framework, focused on SOC2",
+                "homepage": "https://comply.strongdm.com",
                 "id": 124157019,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-21T08:02:53Z",
+                "open_issues": 29,
                 "owner": "strongdm",
                 "repo": "comply",
-                "stars": 1578
+                "stars": 1578,
+                "topics": [
+                  "compliance",
+                  "documentation-toolchain",
+                  "gdpr",
+                  "go",
+                  "golang",
+                  "grc",
+                  "hipaa",
+                  "iso27001",
+                  "pdf-generation",
+                  "soc2",
+                  "templates"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -201,12 +404,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source solutions for SOC2, GDPR, and ISO27001",
+                "homepage": "https://www.probo.com",
                 "id": 913434583,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:36:20Z",
+                "open_issues": 82,
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1320
+                "stars": 1320,
+                "topics": [
+                  "compliance",
+                  "gdpr",
+                  "grc",
+                  "hipaa",
+                  "iso27001",
+                  "iso27701",
+                  "iso42001",
+                  "soc2"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -217,12 +434,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PacBot (Policy as Code Bot)",
+                "homepage": "https://tmobile.github.io/pacbot/",
                 "id": 149351086,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-08T16:43:24Z",
+                "open_issues": 138,
                 "owner": "tmobile",
                 "repo": "pacbot",
-                "stars": 1310
+                "stars": 1310,
+                "topics": [
+                  "angularjs",
+                  "aws",
+                  "aws-security",
+                  "cloud",
+                  "cloud-auditing",
+                  "cloud-compliance-reporting",
+                  "cloud-native",
+                  "cloud-security",
+                  "continous-compliance",
+                  "java",
+                  "policy-as-code",
+                  "security",
+                  "security-automation",
+                  "spring-boot"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -233,12 +470,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python and TypeScript SDKs for verifiable evidence of AI agent actions. Signed receipts, policy enforcement, audit trails. Works with LangChain, CrewAI, MCP.",
+                "homepage": "https://asqav.com",
                 "id": 1134058397,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T13:33:49Z",
+                "open_issues": 0,
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 410
+                "stars": 411,
+                "topics": [
+                  "ai-agent-governance",
+                  "ai-agents",
+                  "ai-compliance",
+                  "ai-governance",
+                  "ai-security",
+                  "audit-trail",
+                  "compliance",
+                  "crewai",
+                  "dora",
+                  "eu-ai-act",
+                  "fips-204",
+                  "langchain",
+                  "mcp",
+                  "ml-dsa",
+                  "openai-agents",
+                  "policy-enforcement",
+                  "python",
+                  "python-sdk",
+                  "quantum-safe",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -249,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security Documentation Builder",
+                "homepage": null,
                 "id": 41817121,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-16T18:30:02Z",
+                "open_issues": 49,
                 "owner": "opencontrol",
                 "repo": "compliance-masonry",
-                "stars": 385
+                "stars": 385,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -265,12 +533,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard.",
+                "homepage": "https://oscal-compass.dev/compliance-trestle/latest/",
                 "id": 291571443,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:06:18Z",
+                "open_issues": 43,
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "compliance",
+                  "nist800-53",
+                  "oscal",
+                  "pypi"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -281,12 +559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, self-service GRC tool to automate security assessments and compliance.",
+                "homepage": "https://q.govready.com",
                 "id": 57335471,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-10T06:41:33Z",
+                "open_issues": 43,
                 "owner": "GovReady",
                 "repo": "govready-q",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -297,12 +580,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Auditree framework tool to run compliance control checks as unit tests.",
+                "homepage": "https://auditree.github.io/",
                 "id": 259946750,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-20T12:48:36Z",
+                "open_issues": 28,
                 "owner": "ComplianceAsCode",
                 "repo": "auditree-framework",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "compliance",
+                  "compliance-as-code",
+                  "compliance-automation",
+                  "continuous-compliance",
+                  "devops",
+                  "devsecops",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -313,12 +609,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof layer for AI agents. Cryptographically verify every action.",
+                "homepage": "https://signet-auth.vercel.app/",
                 "id": 1194950905,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-28T10:31:10Z",
+                "open_issues": 0,
                 "owner": "Prismer-AI",
                 "repo": "signet",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "agent-security",
+                  "ai-agents",
+                  "audit-trail",
+                  "autogen",
+                  "claude-code",
+                  "crewai",
+                  "cryptographic-signing",
+                  "cursor",
+                  "ed25519",
+                  "langchain",
+                  "mcp",
+                  "mcp-security",
+                  "mcp-tools",
+                  "open-source",
+                  "python",
+                  "rust",
+                  "security",
+                  "signing",
+                  "typescript",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -329,12 +651,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
+                "homepage": null,
                 "id": 1218881505,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:44:04Z",
+                "open_issues": 7,
                 "owner": "kriss-b",
                 "repo": "llm-iso27001",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "compliance",
+                  "grc",
+                  "information-security",
+                  "isms",
+                  "iso27001",
+                  "iso42001",
+                  "llm",
+                  "llm-agent",
+                  "markdown",
+                  "nis2",
+                  "security-policy"
+                ]
               },
               "first_seen": "2026-08-29T03:23:39.611Z"
             },
@@ -345,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://v0-s2guild-org.vercel.app",
                 "id": 1159345542,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-02-19T02:04:15Z",
+                "open_issues": 7,
                 "owner": "SOC-2-Quality-Guild",
                 "repo": "s2guild.org",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -361,12 +705,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offline, single-executable Windows security posture auditor. 50+ CIS-mapped checks, a 0–100 score, and a self-contained HTML report. No cloud, no agent. MIT.",
+                "homepage": "https://apotrope.sh",
                 "id": 1184462253,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T07:24:47Z",
+                "open_issues": 2,
                 "owner": "hexorcist404",
                 "repo": "apotrope",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "cis",
+                  "cis-benchmark",
+                  "infosec",
+                  "offline",
+                  "security-audit",
+                  "security-tools",
+                  "system-hardening",
+                  "windows",
+                  "windows-hardening"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -377,12 +736,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frictionless Governance for AI",
+                "homepage": "http://www.venturalitica.ai",
                 "id": 1137475130,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:48:41Z",
+                "open_issues": 1,
                 "owner": "Venturalitica",
                 "repo": "venturalitica-sdk",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ethics-ai",
+                  "ethics-in-ai",
+                  "eu-ai-act",
+                  "iso-42001",
+                  "iso42001",
+                  "oscal",
+                  "responsible-ai"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -393,12 +765,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The EU & UK compliance plane for Google ADK.",
+                "homepage": "https://regulus.neullabs.com",
                 "id": 1091357873,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-07-02T11:24:52Z",
+                "open_issues": 1,
                 "owner": "neul-labs",
                 "repo": "regulus",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "adk",
+                  "agent",
+                  "agent-framework",
+                  "ai-compliance",
+                  "ai-governance",
+                  "audit-logging",
+                  "compliance",
+                  "dora",
+                  "eu-ai-act",
+                  "fca",
+                  "fintech",
+                  "gdpr",
+                  "google-adk",
+                  "google-cloud",
+                  "java",
+                  "maven",
+                  "model-context-protocol",
+                  "pra",
+                  "regtech",
+                  "vertex-ai"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -409,12 +807,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free plain-English reference to all 110 NIST SP 800-171 controls (CMMC Level 2) with point weights and links to free SPRS/SSP tools.",
+                "homepage": "https://objective320.com",
                 "id": 1277609389,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-23T03:30:04Z",
+                "open_issues": 0,
                 "owner": "BrianRDS1518",
                 "repo": "cmmc-nist-800-171-reference",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "cmmc",
+                  "cmmc-compliance",
+                  "compliance",
+                  "cui",
+                  "defense-contractor",
+                  "dfars",
+                  "govcon",
+                  "nist-800-171",
+                  "sprs"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -425,12 +838,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free no-tracking CISA KEV / BOD 22-01 deadline planner for pasted CVEs.",
+                "homepage": "https://kev-deadline-planner.vercel.app/",
                 "id": 1232580034,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-05-20T18:40:04Z",
+                "open_issues": 0,
                 "owner": "Turner-Levey",
                 "repo": "kev-deadline-planner",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "bod-22-01",
+                  "browser-only",
+                  "cisa",
+                  "cisa-kev",
+                  "cve",
+                  "cybersecurity",
+                  "deadline-calculator",
+                  "free-tools",
+                  "incident-response",
+                  "kev",
+                  "known-exploited-vulnerabilities",
+                  "local-first",
+                  "no-tracking",
+                  "open-source",
+                  "patch-management",
+                  "remediation",
+                  "security-tools",
+                  "threat-intelligence",
+                  "vulnerability-management",
+                  "vulnify"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -441,12 +880,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1280932593,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-28T10:01:10Z",
+                "open_issues": 0,
                 "owner": "CSOAI-ORG",
                 "repo": "oscal-generator-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-compliance",
+                  "csoai-official",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -457,12 +905,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CRA Article 14 evidence pack from your SBOM and VEX feeds. Every clause cited verbatim. Every output hashed.",
+                "homepage": "https://github.com/plusultra-tools/cra-sbom-evidence",
                 "id": 1239821855,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-19T12:18:35Z",
+                "open_issues": 0,
                 "owner": "plusultra-tools",
                 "repo": "cra-sbom-evidence",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "compliance",
+                  "cra",
+                  "cyclonedx",
+                  "eu",
+                  "evidence",
+                  "sbom",
+                  "supply-chain",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -473,12 +935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DORA Register of Information data-quality preflight: runs the 116 ESA checks on your xBRL-CSV before submission, with verbatim-cited error reports.",
+                "homepage": null,
                 "id": 1243578635,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-19T13:24:24Z",
+                "open_issues": 0,
                 "owner": "plusultra-tools",
                 "repo": "dora-roi-validator",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -491,12 +958,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EU AI Act measurement corpus — 417 frozen provisions (113 Articles, provision-level granularity), signed GSPC crosswalk + article-level MCPs. Measurement, not certification.",
+                    "homepage": "https://meok.ai",
                     "id": 1209275327,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T14:24:39Z",
+                    "open_issues": 7,
                     "owner": "CSOAI-ORG",
                     "repo": "eu-ai-act-compliance-mcp",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "a-100-100",
+                      "ai-governance",
+                      "art-12",
+                      "art-50",
+                      "compliance",
+                      "csoai",
+                      "eu-ai-act",
+                      "layer-0",
+                      "mcp",
+                      "mcp-server",
+                      "mit-license",
+                      "world-leading"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:28.670Z"
                 },
@@ -507,12 +992,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DORA (Regulation EU 2022/2554) compliance MCP for financial entities. ICT risk, incident classification, reporting workflows. MIT",
+                    "homepage": "https://meok.ai",
                     "id": 1218707332,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-26T05:30:45Z",
+                    "open_issues": 6,
                     "owner": "CSOAI-ORG",
                     "repo": "dora-compliance-mcp",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "ai-agents",
+                      "ai-compliance",
+                      "ai-governance",
+                      "claude",
+                      "compliance",
+                      "csoai",
+                      "dora",
+                      "eu-ai-act",
+                      "fintech",
+                      "mcp",
+                      "mcp-server",
+                      "meok",
+                      "meok-ai-labs",
+                      "mit-license",
+                      "model-context-protocol",
+                      "open-source",
+                      "regtech"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:28.670Z"
                 },
@@ -523,12 +1031,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EU CRA (Cyber Resilience Act, Reg 2024/2847) Annex IV classifier — 9-category essential security requirements with HMAC-signed compliance attestations. By MEOK AI Labs.",
+                    "homepage": null,
                     "id": 1221723590,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-26T05:35:05Z",
+                    "open_issues": 1,
                     "owner": "CSOAI-ORG",
                     "repo": "csoai-cra-annex-iv-classifier-mcp",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "a2a",
+                      "agentic-ai",
+                      "ai-agents",
+                      "ai-compliance",
+                      "ai-governance",
+                      "claude",
+                      "compliance",
+                      "cra",
+                      "csoai",
+                      "cyber-resilience-act",
+                      "mcp",
+                      "mcp-server",
+                      "meok",
+                      "meok-ai-labs",
+                      "model-context-protocol",
+                      "python",
+                      "regtech"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:28.670Z"
                 },
@@ -539,12 +1070,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1221723614,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-08-22T09:04:07Z",
+                    "open_issues": 2,
                     "owner": "CSOAI-ORG",
                     "repo": "csoai-nis2-de-register-mcp",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "a2a",
+                      "agentic-ai",
+                      "ai-agents",
+                      "ai-compliance",
+                      "ai-governance",
+                      "claude",
+                      "compliance",
+                      "csoai",
+                      "eu-ai-act",
+                      "mcp",
+                      "mcp-server",
+                      "meok",
+                      "meok-ai-labs",
+                      "model-context-protocol",
+                      "python",
+                      "regtech"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:28.670Z"
                 },
@@ -555,12 +1108,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EU AI Act Article 50 watermarking compliance MCP — C2PA, content provenance, deepfake disclosure, AI-content labelling. Hits the November 2026 cliff. By MEOK AI Labs.",
+                    "homepage": null,
                     "id": 1221723557,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-08T13:54:30Z",
+                    "open_issues": 3,
                     "owner": "CSOAI-ORG",
                     "repo": "csoai-watermark-attest-mcp",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "a2a",
+                      "agentic-ai",
+                      "ai-agents",
+                      "ai-compliance",
+                      "ai-governance",
+                      "ai-safety",
+                      "anthropic",
+                      "c2pa",
+                      "claude",
+                      "compliance",
+                      "csoai",
+                      "eu-ai-act",
+                      "mcp",
+                      "mcp-server",
+                      "meok",
+                      "meok-ai-labs",
+                      "model-context-protocol",
+                      "python",
+                      "regulatory-compliance",
+                      "watermarking"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:28.670Z"
                 }
@@ -583,12 +1162,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 A curated list of international standards, frameworks, and certifications that define how organizations operate, scale, and stay compliant.",
+                "homepage": "https://console.openapi.com",
                 "id": 1229604825,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-29T17:52:19Z",
+                "open_issues": 0,
                 "owner": "openapi",
                 "repo": "awesome-corporate-standards",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "audit",
+                  "awesome",
+                  "awesome-list",
+                  "best-practices",
+                  "certifications",
+                  "certified-api",
+                  "compliance",
+                  "corporate-standards",
+                  "cybersecurity",
+                  "data-protection",
+                  "gdpr",
+                  "governance",
+                  "grc",
+                  "iso27001",
+                  "openapi",
+                  "regulations",
+                  "risk-management",
+                  "standards",
+                  "sustainability"
+                ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             }
@@ -608,12 +1212,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Find buried material events in SEC 8-K filings the filer did not report. Pure Python regex classifier, no LLM. Powered by FilingFirehose.",
+                    "homepage": "https://filingfirehose.com",
                     "id": 1273668945,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-19T01:50:36Z",
+                    "open_issues": 0,
                     "owner": "jaablon",
                     "repo": "buried-events-parser",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "8-k",
+                      "cybersecurity",
+                      "disclosure",
+                      "finance",
+                      "fintech",
+                      "parser",
+                      "python",
+                      "regex",
+                      "regulatory",
+                      "sec",
+                      "sec-edgar"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:28.670Z"
                 }
@@ -632,15 +1253,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:39.611Z",
+    "last_updated": "2026-08-29T05:03:04.745Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome compliance resources, libraries, and tooling",
+      "homepage": "https://theopenlane.github.io/awesome-compliance/",
       "id": 1067351105,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-28T21:28:37Z",
+      "open_issues": 14,
       "owner": "theopenlane",
       "repo": "awesome-compliance",
-      "stars": 83
+      "stars": 83,
+      "topics": [
+        "audit",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "compliance",
+        "grc",
+        "hacktoberfest",
+        "hacktoberfest-2025",
+        "iso27001",
+        "soc2"
+      ]
     },
     "original_repository_sha": "6877ae350ea6cabaeb631f1fffea911e212baa9a",
     "enhanced_repository": "enhansome/enhansome-compliance",
