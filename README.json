@@ -91,10 +91,10 @@
                 "archived": false,
                 "id": 180687624,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:53:48Z",
+                "last_commit": "2026-08-28T12:50:22Z",
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 37667
+                "stars": 37679
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -107,10 +107,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:18:06Z",
+                "last_commit": "2026-08-28T13:17:40Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14701
+                "stars": 14713
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -126,7 +126,7 @@
                 "last_commit": "2026-08-24T19:32:49Z",
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8157
+                "stars": 8160
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -142,7 +142,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7802
+                "stars": 7803
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 694266896,
                 "language": "Python",
-                "last_commit": "2026-08-27T18:14:17Z",
+                "last_commit": "2026-08-29T03:22:27Z",
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
                 "stars": 4380
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-09T20:14:07Z",
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1901
+                "stars": 1902
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -190,7 +190,7 @@
                 "last_commit": "2022-07-21T08:02:53Z",
                 "owner": "strongdm",
                 "repo": "comply",
-                "stars": 1576
+                "stars": 1578
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 913434583,
                 "language": "Go",
-                "last_commit": "2026-08-28T05:49:40Z",
+                "last_commit": "2026-08-28T16:36:20Z",
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1317
+                "stars": 1320
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -238,7 +238,7 @@
                 "last_commit": "2026-08-27T13:33:49Z",
                 "owner": "jagmarques",
                 "repo": "asqav-sdk",
-                "stars": 400
+                "stars": 410
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
             },
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:35:44Z",
+                "last_commit": "2026-08-28T15:06:18Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 273
@@ -321,6 +321,22 @@
                 "stars": 38
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LLM ISO27001",
+              "description": "Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1218881505,
+                "language": null,
+                "last_commit": "2026-08-28T20:44:04Z",
+                "owner": "kriss-b",
+                "repo": "llm-iso27001",
+                "stars": 35
+              },
+              "first_seen": "2026-08-29T03:23:39.611Z"
             },
             {
               "node_type": "item",
@@ -616,17 +632,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:28.670Z",
+    "last_updated": "2026-08-29T03:23:39.611Z",
     "original_repository_info": {
       "archived": false,
       "id": 1067351105,
       "language": null,
-      "last_commit": "2026-08-10T14:59:38Z",
+      "last_commit": "2026-08-28T21:28:37Z",
       "owner": "theopenlane",
       "repo": "awesome-compliance",
-      "stars": 82
+      "stars": 83
     },
-    "original_repository_sha": "4738057259c37c861a179e7b0d7bce42072e1fbf",
+    "original_repository_sha": "6877ae350ea6cabaeb631f1fffea911e212baa9a",
     "enhanced_repository": "enhansome/enhansome-compliance",
     "enhanced_repository_description": null,
     "title": "Awesome Compliance with stars"
