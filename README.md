@@ -148,7 +148,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### EU Cybersecurity & AI Regulations
 
-* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 22 | 🐛 26 | 🌐 Python | 📅 2026-09-08 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 22 | 🐛 10 | 🌐 Python | 📅 2026-09-13 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 * [NeuralFlow](https://github.com/omergili/neuralflow) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-08 - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
 * [Systima Comply](https://github.com/systima-ai/comply) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-25 - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 * [AI Act Conformity Pack](https://github.com/plusultra-tools/ai-act-conformity-pack) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Generates an EU AI Act Annex IV technical-documentation skeleton from a YAML model card. Covers Articles 11-15 (records, transparency, accuracy, robustness). Python CLI, MIT licensed.
@@ -162,16 +162,16 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,885 | 🐛 267 | 🌐 Go | 📅 2026-09-11 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,805 | 🐛 369 | 🌐 Python | 📅 2026-09-11 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,181 | 🐛 104 | 🌐 Go | 📅 2026-09-07 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,815 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,424 | 🐛 98 | 🌐 Python | 📅 2026-09-12 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,953 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,893 | 🐛 270 | 🌐 Go | 📅 2026-09-11 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,812 | 🐛 371 | 🌐 Python | 📅 2026-09-11 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,182 | 🐛 104 | 🌐 Go | 📅 2026-09-07 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,817 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,425 | 🐛 98 | 🌐 Python | 📅 2026-09-13 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,957 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
 * [Comply](https://github.com/strongdm/comply) ⭐ 1,580 | 🐛 29 | 🌐 Go | 📅 2022-07-21 - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,354 | 🐛 96 | 🌐 Go | 📅 2026-09-12 - Open source compliance automation focused on continuous integration workflows.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,354 | 🐛 99 | 🌐 Go | 📅 2026-09-13 - Open source compliance automation focused on continuous integration workflows.
 * [PacBot](https://github.com/tmobile/pacbot) ⭐ 1,310 | 🐛 138 | 🌐 Java | 📅 2022-12-08 - T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.
-* [Asqav](https://github.com/jagmarques/asqav-sdk) ⭐ 509 | 🐛 1 | 🌐 Python | 📅 2026-09-12 - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
+* [Asqav](https://github.com/jagmarques/asqav-sdk) ⭐ 514 | 🐛 1 | 🌐 Python | 📅 2026-09-13 - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 385 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 275 | 🐛 42 | 🌐 Python | 📅 2026-09-11 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Govready](https://github.com/GovReady/govready-q) ⭐ 220 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Open-source GRC platform for automated compliance assessments.
@@ -204,8 +204,8 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 #### MEOK AI Labs — Signed-Attestation Open-Source MCPs
 
-* [meok-eu-ai-act-compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) ⭐ 1 | 🐛 7 | 🌐 Python | 📅 2026-09-12 - EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.
-* [meok-dora-compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-12 - DORA (Reg 2022/2554) Article 28 register, Article 26 TLPT planner, Article 18 incident classification with signed attestations.
+* [meok-eu-ai-act-compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) ⭐ 1 | 🐛 7 | 🌐 Python | 📅 2026-09-13 - EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.
+* [meok-dora-compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-13 - DORA (Reg 2022/2554) Article 28 register, Article 26 TLPT planner, Article 18 incident classification with signed attestations.
 * [meok-cra-annex-iv-classifier](https://github.com/CSOAI-ORG/meok-cra-annex-iv-classifier-mcp) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-06-26 - EU CRA (Reg 2024/2847) Annex IV essential security requirements classifier.
 * [meok-nis2-de-register](https://github.com/CSOAI-ORG/meok-nis2-de-register-mcp) ⭐ 0 | 🐛 2 | 📅 2026-09-03 - Germany NIS2 BSI register Section 30/32 timelines + KRITIS classifications.
 * [meok-watermark-attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-09-03 - EU AI Act Article 50 watermarking compliance (C2PA + invisible WM + fingerprint), 2 November 2026 deadline.
@@ -295,4 +295,4 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
