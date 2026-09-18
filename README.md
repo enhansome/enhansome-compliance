@@ -162,16 +162,15 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,965 | 🐛 275 | 🌐 Go | 📅 2026-09-17 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,829 | 🐛 378 | 🌐 Python | 📅 2026-09-17 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,189 | 🐛 106 | 🌐 Go | 📅 2026-09-07 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,819 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,432 | 🐛 112 | 🌐 Python | 📅 2026-09-17 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,969 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,976 | 🐛 271 | 🌐 Go | 📅 2026-09-18 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,837 | 🐛 378 | 🌐 Python | 📅 2026-09-18 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,190 | 🐛 106 | 🌐 Go | 📅 2026-09-07 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,821 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,433 | 🐛 113 | 🌐 Python | 📅 2026-09-18 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,971 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
 * [Comply](https://github.com/strongdm/comply) ⭐ 1,584 | 🐛 29 | 🌐 Go | 📅 2022-07-21 - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,367 | 🐛 92 | 🌐 Go | 📅 2026-09-17 - Open source compliance automation focused on continuous integration workflows.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,368 | 🐛 89 | 🌐 Go | 📅 2026-09-18 - Open source compliance automation focused on continuous integration workflows.
 * [PacBot](https://github.com/tmobile/pacbot) ⭐ 1,311 | 🐛 138 | 🌐 Java | 📅 2022-12-08 - T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.
-* [Asqav](https://github.com/jagmarques/asqav-sdk) ⭐ 547 | 🐛 4 | 🌐 Python | 📅 2026-09-17 - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 386 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 276 | 🐛 43 | 🌐 Python | 📅 2026-09-14 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Govready](https://github.com/GovReady/govready-q) ⭐ 220 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Open-source GRC platform for automated compliance assessments.
@@ -188,6 +187,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 * [DORA ROI Validator](https://github.com/plusultra-tools/dora-roi-validator) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Validates a DORA Register of Information against the 116-field schema from ESA Implementing Regulation 2024/2956. JSON or CSV input, structured error report. Python, MIT.
 * [Openlane](https://www.theopenlane.io/) - Comprehensive compliance automation platform for SOC 2, ISO 27001, and custom frameworks (Apache-2.0). Transforms compliance from static annual process to continuous collaborative workflow with risk register, policy management, evidence lifecycle, and control validation. ([GitHub](https://github.com/theopenlane) | [Docs](https://docs.theopenlane.io/))
 * SEC filing microtools: [SEC Filing Fee Calculator](https://sec-filing-fee-calculator.vercel.app/), [Schedule 13D / 13G Deadline Calculator](https://sec-13d-13g-deadline-calculator.vercel.app/), [Form D Deadline Calculator](https://form-d-deadline-calculator.vercel.app/), and [Section 16 / Form 4 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - Browser-only MIT-licensed worksheets for common SEC filing fee estimates and deadline-planning workflows, with memo/CSV exports and a Section 16 calendar export.
+* [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
 * [CSOAI OSCAL Generator](https://github.com/CSOAI-ORG/oscal-generator-mcp) - Open-source MCP server generating Ed25519-signed, machine-readable NIST OSCAL compliance packages — offline-verifiable EU AI Act Article-12 evidence. Validates under compliance-trestle; FedRAMP RFC-0024 readiness check. Flagship of a governed-MCP fleet including 22 legacy-system bridges (COBOL/SAP/SCADA/HL7/ISO-20022) other tools do not reach (Apache-2.0).
 * [InSpec](https://www.inspec.io/) - Chef's compliance and security testing framework. Write automated compliance tests in Ruby DSL with pre-built profiles for CIS, DISA STIGs.
 * [OpenSCAP](https://www.open-scap.org/) - Security Content Automation Protocol toolset for automated system scanning against SCAP benchmarks (Red Hat sponsored).
@@ -295,4 +295,4 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
