@@ -148,7 +148,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### EU Cybersecurity & AI Regulations
 
-* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 23 | 🐛 10 | 🌐 Python | 📅 2026-09-13 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 23 | 🐛 11 | 🌐 Python | 📅 2026-09-19 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 * [NeuralFlow](https://github.com/omergili/neuralflow) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-08 - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
 * [Systima Comply](https://github.com/systima-ai/comply) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-25 - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 * [AI Act Conformity Pack](https://github.com/plusultra-tools/ai-act-conformity-pack) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Generates an EU AI Act Annex IV technical-documentation skeleton from a YAML model card. Covers Articles 11-15 (records, transparency, accuracy, robustness). Python CLI, MIT licensed.
@@ -162,17 +162,17 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,976 | 🐛 271 | 🌐 Go | 📅 2026-09-18 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,837 | 🐛 378 | 🌐 Python | 📅 2026-09-18 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,984 | 🐛 271 | 🌐 Go | 📅 2026-09-18 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,838 | 🐛 377 | 🌐 Python | 📅 2026-09-19 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,190 | 🐛 106 | 🌐 Go | 📅 2026-09-07 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,821 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,433 | 🐛 113 | 🌐 Python | 📅 2026-09-18 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,971 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,433 | 🐛 109 | 🌐 Python | 📅 2026-09-19 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 1,974 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
 * [Comply](https://github.com/strongdm/comply) ⭐ 1,584 | 🐛 29 | 🌐 Go | 📅 2022-07-21 - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,368 | 🐛 89 | 🌐 Go | 📅 2026-09-18 - Open source compliance automation focused on continuous integration workflows.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,371 | 🐛 89 | 🌐 Go | 📅 2026-09-18 - Open source compliance automation focused on continuous integration workflows.
 * [PacBot](https://github.com/tmobile/pacbot) ⭐ 1,311 | 🐛 138 | 🌐 Java | 📅 2022-12-08 - T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 386 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
-* [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 276 | 🐛 43 | 🌐 Python | 📅 2026-09-14 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
+* [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 276 | 🐛 42 | 🌐 Python | 📅 2026-09-14 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Govready](https://github.com/GovReady/govready-q) ⭐ 220 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Open-source GRC platform for automated compliance assessments.
 * [Auditree Framework](https://github.com/ComplianceAsCode/auditree-framework) ⭐ 76 | 🐛 28 | 🌐 Python | 📅 2024-08-20 - IBM's framework for automated evidence collection and verification (Apache-2.0). Treats compliance checks as code with version-controlled evidence locker.
 * [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) ⭐ 42 | 🐛 8 | 📅 2026-09-11 - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents
@@ -295,4 +295,4 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
