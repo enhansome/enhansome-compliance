@@ -101,36 +101,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AI Act Conformity Pack",
-              "description": "Generates an EU AI Act Annex IV technical-documentation skeleton from a YAML model card. Covers Articles 11-15 (records, transparency, accuracy, robustness). Python CLI, MIT licensed.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Emit EU AI Act Annex IV technical-documentation + FRIA evidence-pack scaffolds with verbatim-cited regulatory text and a hash-chained manifest. OSS Python CLI + GitHub Action.",
-                "homepage": "https://github.com/plusultra-tools/ai-act-conformity-pack",
-                "id": 1239821789,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-19T12:21:37Z",
-                "open_issues": 0,
-                "owner": "plusultra-tools",
-                "repo": "ai-act-conformity-pack",
-                "stars": 0,
-                "topics": [
-                  "ai-act",
-                  "annex-iv",
-                  "cli",
-                  "compliance",
-                  "conformity",
-                  "eu-regulation",
-                  "evidence-pack",
-                  "fria"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
             }
           ],
           "description": null,
@@ -157,11 +127,11 @@
                 "id": 180687624,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T14:59:14Z",
-                "open_issues": 271,
+                "last_commit": "2026-09-22T10:11:35Z",
+                "open_issues": 265,
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 38000,
+                "stars": 38015,
                 "topics": [
                   "containers",
                   "devsecops",
@@ -194,11 +164,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:38:14Z",
-                "open_issues": 384,
+                "last_commit": "2026-09-22T20:46:36Z",
+                "open_issues": 387,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14844,
+                "stars": 14851,
                 "topics": [
                   "aws",
                   "azure",
@@ -236,11 +206,11 @@
                 "id": 94779471,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T19:32:53Z",
+                "last_commit": "2026-09-22T12:39:59Z",
                 "open_issues": 108,
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8191,
+                "stars": 8192,
                 "topics": [
                   "cis-benchmark",
                   "cis-kubernetes-benchmark",
@@ -270,7 +240,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7823,
+                "stars": 7825,
                 "topics": [
                   "auditing",
                   "aws",
@@ -294,11 +264,11 @@
                 "id": 694266896,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T22:59:41Z",
-                "open_issues": 113,
+                "last_commit": "2026-09-22T23:25:14Z",
+                "open_issues": 116,
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4439,
+                "stars": 4447,
                 "topics": [
                   "audit",
                   "automation",
@@ -336,11 +306,11 @@
                 "id": 917358773,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T19:11:55Z",
+                "last_commit": "2026-09-22T18:40:24Z",
                 "open_issues": 38,
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 1980,
+                "stars": 1983,
                 "topics": [
                   "ai",
                   "audit",
@@ -366,39 +336,6 @@
             },
             {
               "node_type": "item",
-              "title": "Comply",
-              "description": "SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Compliance automation framework, focused on SOC2",
-                "homepage": "https://comply.strongdm.com",
-                "id": 124157019,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2022-07-21T08:02:53Z",
-                "open_issues": 29,
-                "owner": "strongdm",
-                "repo": "comply",
-                "stars": 1585,
-                "topics": [
-                  "compliance",
-                  "documentation-toolchain",
-                  "gdpr",
-                  "go",
-                  "golang",
-                  "grc",
-                  "hipaa",
-                  "iso27001",
-                  "pdf-generation",
-                  "soc2",
-                  "templates"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
               "title": "Probo",
               "description": "Open source compliance automation focused on continuous integration workflows.",
               "children": [],
@@ -409,11 +346,11 @@
                 "id": 913434583,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-21T18:07:33Z",
+                "last_commit": "2026-09-22T20:39:05Z",
                 "open_issues": 86,
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1374,
+                "stars": 1375,
                 "topics": [
                   "compliance",
                   "gdpr",
@@ -423,42 +360,6 @@
                   "iso27701",
                   "iso42001",
                   "soc2"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PacBot",
-              "description": "T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PacBot (Policy as Code Bot)",
-                "homepage": "https://tmobile.github.io/pacbot/",
-                "id": 149351086,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2022-12-08T16:43:24Z",
-                "open_issues": 138,
-                "owner": "tmobile",
-                "repo": "pacbot",
-                "stars": 1311,
-                "topics": [
-                  "angularjs",
-                  "aws",
-                  "aws-security",
-                  "cloud",
-                  "cloud-auditing",
-                  "cloud-compliance-reporting",
-                  "cloud-native",
-                  "cloud-security",
-                  "continous-compliance",
-                  "java",
-                  "policy-as-code",
-                  "security",
-                  "security-automation",
-                  "spring-boot"
                 ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
@@ -479,7 +380,7 @@
                 "open_issues": 49,
                 "owner": "opencontrol",
                 "repo": "compliance-masonry",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
@@ -497,7 +398,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T14:25:20Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 277,
@@ -512,58 +413,8 @@
             },
             {
               "node_type": "item",
-              "title": "Govready",
-              "description": "Open-source GRC platform for automated compliance assessments.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An open source, self-service GRC tool to automate security assessments and compliance.",
-                "homepage": "https://q.govready.com",
-                "id": 57335471,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2024-12-10T06:41:33Z",
-                "open_issues": 43,
-                "owner": "GovReady",
-                "repo": "govready-q",
-                "stars": 220,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Auditree Framework",
-              "description": "IBM's framework for automated evidence collection and verification (Apache-2.0). Treats compliance checks as code with version-controlled evidence locker.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Auditree framework tool to run compliance control checks as unit tests.",
-                "homepage": "https://auditree.github.io/",
-                "id": 259946750,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-08-20T12:48:36Z",
-                "open_issues": 28,
-                "owner": "ComplianceAsCode",
-                "repo": "auditree-framework",
-                "stars": 76,
-                "topics": [
-                  "compliance",
-                  "compliance-as-code",
-                  "compliance-automation",
-                  "continuous-compliance",
-                  "devops",
-                  "devsecops",
-                  "python"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
               "title": "LLM ISO27001",
-              "description": "Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents",
+              "description": "Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -637,27 +488,6 @@
             },
             {
               "node_type": "item",
-              "title": "SOC 2 Reliability Guild",
-              "description": "A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions. (GitHub)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": "https://v0-s2guild-org.vercel.app",
-                "id": 1159345542,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2026-02-19T02:04:15Z",
-                "open_issues": 7,
-                "owner": "SOC-2-Quality-Guild",
-                "repo": "s2guild.org",
-                "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
               "title": "Apotrope",
               "description": "Offline security posture auditor for Windows. Runs 50+ checks mapped to CIS Microsoft Windows Benchmarks and generates scored HTML/JSON reports.",
               "children": [],
@@ -668,11 +498,11 @@
                 "id": 1184462253,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T16:22:48Z",
+                "last_commit": "2026-09-22T14:08:51Z",
                 "open_issues": 1,
                 "owner": "hexorcist404",
                 "repo": "apotrope",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "cis",
                   "cis-benchmark",
@@ -757,183 +587,11 @@
                 ]
               },
               "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Objective320",
-              "description": "Free, no-signup CMMC / NIST SP 800-171 toolkit: a SPRS score calculator, an SSP generator, a POA&M generator, and a plain-English reference to all 110 controls. Browser-based, CC BY 4.0. (GitHub)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free plain-English reference to all 110 NIST SP 800-171 controls (CMMC Level 2) with point weights and links to free SPRS/SSP tools.",
-                "homepage": "https://objective320.com",
-                "id": 1277609389,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-23T03:30:04Z",
-                "open_issues": 0,
-                "owner": "BrianRDS1518",
-                "repo": "cmmc-nist-800-171-reference",
-                "stars": 1,
-                "topics": [
-                  "cmmc",
-                  "cmmc-compliance",
-                  "compliance",
-                  "cui",
-                  "defense-contractor",
-                  "dfars",
-                  "govcon",
-                  "nist-800-171",
-                  "sprs"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CISA KEV Deadline Planner",
-              "description": "Turner Levey. Open-source browser tool for checking CISA Known Exploited Vulnerabilities and BOD 22-01 remediation due dates without login or tracking. (GitHub)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free no-tracking CISA KEV / BOD 22-01 deadline planner for pasted CVEs.",
-                "homepage": "https://kev-deadline-planner.vercel.app/",
-                "id": 1232580034,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-05-20T18:40:04Z",
-                "open_issues": 0,
-                "owner": "Turner-Levey",
-                "repo": "kev-deadline-planner",
-                "stars": 0,
-                "topics": [
-                  "bod-22-01",
-                  "browser-only",
-                  "cisa",
-                  "cisa-kev",
-                  "cve",
-                  "cybersecurity",
-                  "deadline-calculator",
-                  "free-tools",
-                  "incident-response",
-                  "kev",
-                  "known-exploited-vulnerabilities",
-                  "local-first",
-                  "no-tracking",
-                  "open-source",
-                  "patch-management",
-                  "remediation",
-                  "security-tools",
-                  "threat-intelligence",
-                  "vulnerability-management",
-                  "vulnify"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CRA SBOM Evidence",
-              "description": "EU Cyber Resilience Act Annex I Part II (1) preflight. Scores a CycloneDX or SPDX SBOM against BSI TR-03183-2 and NTIA Minimum Elements; emits an Article 14 evidence bundle for the technical file. Python, MIT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CRA Article 14 evidence pack from your SBOM and VEX feeds. Every clause cited verbatim. Every output hashed.",
-                "homepage": "https://github.com/plusultra-tools/cra-sbom-evidence",
-                "id": 1239821855,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-19T12:18:35Z",
-                "open_issues": 0,
-                "owner": "plusultra-tools",
-                "repo": "cra-sbom-evidence",
-                "stars": 0,
-                "topics": [
-                  "compliance",
-                  "cra",
-                  "cyclonedx",
-                  "eu",
-                  "evidence",
-                  "sbom",
-                  "supply-chain",
-                  "vulnerability"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DORA ROI Validator",
-              "description": "Validates a DORA Register of Information against the 116-field schema from ESA Implementing Regulation 2024/2956. JSON or CSV input, structured error report. Python, MIT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "DORA Register of Information data-quality preflight: runs the 116 ESA checks on your xBRL-CSV before submission, with verbatim-cited error reports.",
-                "homepage": null,
-                "id": 1243578635,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-19T13:24:24Z",
-                "open_issues": 0,
-                "owner": "plusultra-tools",
-                "repo": "dora-roi-validator",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Open Source Platforms"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Awesome Corporate Standards",
-              "description": "Curated reference list of international standards, frameworks, and certification bodies for organizations, spanning ISO 9001/27001/14001, GDPR, PCI DSS, SOX, AS9100, ISO 13485, and sector-specific compliance.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "😎 A curated list of international standards, frameworks, and certifications that define how organizations operate, scale, and stay compliant.",
-                "homepage": "https://console.openapi.com",
-                "id": 1229604825,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-06-29T17:52:19Z",
-                "open_issues": 0,
-                "owner": "openapi",
-                "repo": "awesome-corporate-standards",
-                "stars": 4,
-                "topics": [
-                  "audit",
-                  "awesome",
-                  "awesome-list",
-                  "best-practices",
-                  "certifications",
-                  "certified-api",
-                  "compliance",
-                  "corporate-standards",
-                  "cybersecurity",
-                  "data-protection",
-                  "gdpr",
-                  "governance",
-                  "grc",
-                  "iso27001",
-                  "openapi",
-                  "regulations",
-                  "risk-management",
-                  "standards",
-                  "sustainability"
-                ]
-              },
-              "first_seen": "2026-08-28T05:50:28.670Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Compliance Specifications & Resources"
         },
         {
           "children": [
@@ -987,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:18:56.880Z",
+    "last_updated": "2026-09-22T23:52:22.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome compliance resources, libraries, and tooling",
@@ -995,8 +653,8 @@
       "id": 1067351105,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-28T21:28:37Z",
-      "open_issues": 24,
+      "last_commit": "2026-09-22T21:03:18Z",
+      "open_issues": 27,
       "owner": "theopenlane",
       "repo": "awesome-compliance",
       "stars": 88,
@@ -1013,7 +671,7 @@
         "soc2"
       ]
     },
-    "original_repository_sha": "6877ae350ea6cabaeb631f1fffea911e212baa9a",
+    "original_repository_sha": "d04db3b74165b548322c2b02626904d23b1bcf11",
     "enhanced_repository": "enhansome/enhansome-compliance",
     "enhanced_repository_description": null,
     "title": "Awesome Compliance with stars"
