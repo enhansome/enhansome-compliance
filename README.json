@@ -131,7 +131,7 @@
                 "open_issues": 254,
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 38200,
+                "stars": 38202,
                 "topics": [
                   "containers",
                   "devsecops",
@@ -168,7 +168,7 @@
                 "open_issues": 391,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14915,
+                "stars": 14917,
                 "topics": [
                   "aws",
                   "azure",
@@ -268,7 +268,7 @@
                 "open_issues": 59,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4605,
+                "stars": 4606,
                 "topics": [
                   "abac",
                   "access-control",
@@ -305,11 +305,11 @@
                 "id": 694266896,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:37:58Z",
+                "last_commit": "2026-10-03T01:40:59Z",
                 "open_issues": 125,
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4474,
+                "stars": 4473,
                 "topics": [
                   "audit",
                   "automation",
@@ -351,7 +351,7 @@
                 "open_issues": 39,
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 2013,
+                "stars": 2012,
                 "topics": [
                   "ai",
                   "audit",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:46:16.314Z",
+    "last_updated": "2026-10-03T04:39:30.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome compliance resources, libraries, and tooling",
