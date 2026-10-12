@@ -161,17 +161,17 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,337 | 🐛 263 | 🌐 Go | 📅 2026-10-09 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,998 | 🐛 457 | 🌐 Python | 📅 2026-10-09 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,357 | 🐛 263 | 🌐 Go | 📅 2026-10-09 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,005 | 🐛 459 | 🌐 Python | 📅 2026-10-09 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,221 | 🐛 107 | 🌐 Go | 📅 2026-10-05 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,841 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,617 | 🐛 62 | 🌐 Go | 📅 2026-10-09 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,499 | 🐛 121 | 🌐 Python | 📅 2026-10-10 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,026 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,445 | 🐛 103 | 🌐 Go | 📅 2026-10-10 - Open source compliance automation focused on continuous integration workflows.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,842 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,618 | 🐛 63 | 🌐 Go | 📅 2026-10-11 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,501 | 🐛 122 | 🌐 Python | 📅 2026-10-11 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,028 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-09 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,448 | 🐛 103 | 🌐 Go | 📅 2026-10-11 - Open source compliance automation focused on continuous integration workflows.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 387 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 284 | 🐛 44 | 🌐 Python | 📅 2026-10-05 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
-* [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) ⭐ 49 | 🐛 6 | 📅 2026-10-04 - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents.
+* [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) ⭐ 50 | 🐛 6 | 📅 2026-10-04 - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents.
 * [Signet](https://github.com/Prismer-AI/signet) ⭐ 39 | 🐛 0 | 🌐 Rust | 📅 2026-09-24 - Cryptographic action receipts for AI agents with Ed25519 signing, hash-chained audit trail, bilateral co-signing, policy engine, and MCP proxy (Apache-2.0 / MIT). Offline-verifiable evidence for every tool call — independent of any provider. ([npm](https://www.npmjs.com/package/@signet-auth/core) | [PyPI](https://pypi.org/project/signet-auth/) | [crates.io](https://crates.io/crates/signet-core))
 * [open-isms](https://github.com/NISD2/open-isms) ⭐ 17 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-09 - Self-hostable ISMS for the EU NIS 2 Directive (AGPL-3.0). Covers the 49 requirements from Directive 2022/2555 and Implementing Regulation 2024/2690, with GDPR, ISO 27001, the EU AI Act and the CRA mapped against them. Owner, deadline and sign-off per requirement, plus an append-only audit trail. ([Website](https://www.nisd2.eu) | [Self-hosting](https://github.com/NISD2/open-isms/blob/main/docs/self-hosting.md) ⭐ 17 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-09)
 * [Apotrope](https://github.com/hexorcist404/apotrope) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-10-06 - Offline security posture auditor for Windows. Runs 50+ checks mapped to CIS Microsoft Windows Benchmarks and generates scored HTML/JSON reports.
@@ -251,4 +251,4 @@ Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
