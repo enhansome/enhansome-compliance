@@ -131,7 +131,7 @@
                 "open_issues": 280,
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 38694,
+                "stars": 38714,
                 "topics": [
                   "containers",
                   "devsecops",
@@ -164,11 +164,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T18:03:44Z",
-                "open_issues": 505,
+                "last_commit": "2026-10-25T02:41:03Z",
+                "open_issues": 507,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15096,
+                "stars": 15093,
                 "topics": [
                   "aws",
                   "azure",
@@ -240,7 +240,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7856,
+                "stars": 7858,
                 "topics": [
                   "auditing",
                   "aws",
@@ -268,7 +268,7 @@
                 "open_issues": 55,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4630,
+                "stars": 4632,
                 "topics": [
                   "abac",
                   "access-control",
@@ -305,11 +305,11 @@
                 "id": 694266896,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T19:09:05Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-25T22:59:03Z",
+                "open_issues": 95,
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4538,
+                "stars": 4541,
                 "topics": [
                   "audit",
                   "automation",
@@ -351,7 +351,7 @@
                 "open_issues": 51,
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 2056,
+                "stars": 2057,
                 "topics": [
                   "ai",
                   "audit",
@@ -391,7 +391,7 @@
                 "open_issues": 92,
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1477,
+                "stars": 1478,
                 "topics": [
                   "compliance",
                   "gdpr",
@@ -542,8 +542,8 @@
                 "id": 1290857665,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T17:18:00Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-25T14:16:01Z",
+                "open_issues": 14,
                 "owner": "NISD2",
                 "repo": "open-isms",
                 "stars": 18,
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:49:03.434Z",
+    "last_updated": "2026-10-25T23:37:52.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome compliance resources, libraries, and tooling",
