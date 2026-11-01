@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "airblackbox",
                 "repo": "airblackbox",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "accountability",
                   "ai",
@@ -131,7 +131,7 @@
                 "open_issues": 285,
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 38867,
+                "stars": 38881,
                 "topics": [
                   "containers",
                   "devsecops",
@@ -165,10 +165,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T20:30:13Z",
-                "open_issues": 525,
+                "open_issues": 529,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15138,
+                "stars": 15146,
                 "topics": [
                   "aws",
                   "azure",
@@ -207,10 +207,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T19:32:45Z",
-                "open_issues": 110,
+                "open_issues": 109,
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8244,
+                "stars": 8246,
                 "topics": [
                   "cis-benchmark",
                   "cis-kubernetes-benchmark",
@@ -240,7 +240,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7867,
+                "stars": 7869,
                 "topics": [
                   "auditing",
                   "aws",
@@ -268,7 +268,7 @@
                 "open_issues": 57,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4638,
+                "stars": 4639,
                 "topics": [
                   "abac",
                   "access-control",
@@ -305,8 +305,8 @@
                 "id": 694266896,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T22:20:08Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-31T21:34:55Z",
+                "open_issues": 77,
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
                 "stars": 4567,
@@ -387,11 +387,11 @@
                 "id": 913434583,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-30T20:31:31Z",
-                "open_issues": 92,
+                "last_commit": "2026-10-31T19:58:42Z",
+                "open_issues": 85,
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1489,
+                "stars": 1490,
                 "topics": [
                   "compliance",
                   "gdpr",
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:07:10.685Z",
+    "last_updated": "2026-11-01T00:30:04.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome compliance resources, libraries, and tooling",
@@ -743,7 +743,7 @@
       "open_issues": 2,
       "owner": "theopenlane",
       "repo": "awesome-compliance",
-      "stars": 103,
+      "stars": 104,
       "topics": [
         "audit",
         "awesome",

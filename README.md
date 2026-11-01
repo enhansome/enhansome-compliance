@@ -148,7 +148,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### EU Cybersecurity & AI Regulations
 
-* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 24 | 🐛 14 | 🌐 Python | 📅 2026-10-24 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 25 | 🐛 14 | 🌐 Python | 📅 2026-10-24 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 * [NeuralFlow](https://github.com/omergili/neuralflow) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-08 - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
 * [Systima Comply](https://github.com/systima-ai/comply) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-25 - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 * [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) - EU Network and Information Security Directive establishing cybersecurity requirements for critical infrastructure and digital services.
@@ -161,14 +161,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,867 | 🐛 285 | 🌐 Go | 📅 2026-10-30 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,138 | 🐛 525 | 🌐 Python | 📅 2026-10-30 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,244 | 🐛 110 | 🌐 Go | 📅 2026-10-26 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,867 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,638 | 🐛 57 | 🌐 Go | 📅 2026-10-29 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,567 | 🐛 79 | 🌐 Python | 📅 2026-10-30 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,881 | 🐛 285 | 🌐 Go | 📅 2026-10-30 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,146 | 🐛 529 | 🌐 Python | 📅 2026-10-30 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,246 | 🐛 109 | 🌐 Go | 📅 2026-10-26 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,869 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,639 | 🐛 57 | 🌐 Go | 📅 2026-10-29 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,567 | 🐛 77 | 🌐 Python | 📅 2026-10-31 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
 * [Comp AI](https://github.com/trycompai/comp) ⭐ 2,069 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-29 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,489 | 🐛 92 | 🌐 Go | 📅 2026-10-30 - Open source compliance automation focused on continuous integration workflows.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,490 | 🐛 85 | 🌐 Go | 📅 2026-10-31 - Open source compliance automation focused on continuous integration workflows.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 387 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 288 | 🐛 44 | 🌐 Python | 📅 2026-10-29 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) ⭐ 63 | 🐛 7 | 📅 2026-10-27 - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents.
@@ -252,4 +252,4 @@ Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
