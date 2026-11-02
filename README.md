@@ -161,14 +161,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,881 | 🐛 285 | 🌐 Go | 📅 2026-10-30 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,146 | 🐛 529 | 🌐 Python | 📅 2026-10-30 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,899 | 🐛 286 | 🌐 Go | 📅 2026-11-01 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,151 | 🐛 537 | 🌐 Python | 📅 2026-11-01 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,246 | 🐛 109 | 🌐 Go | 📅 2026-10-26 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,869 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,639 | 🐛 57 | 🌐 Go | 📅 2026-10-29 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,567 | 🐛 77 | 🌐 Python | 📅 2026-10-31 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,069 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-29 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,490 | 🐛 85 | 🌐 Go | 📅 2026-10-31 - Open source compliance automation focused on continuous integration workflows.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,639 | 🐛 58 | 🌐 Go | 📅 2026-10-29 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,568 | 🐛 76 | 🌐 Python | 📅 2026-11-02 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,070 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-29 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,492 | 🐛 89 | 🌐 Go | 📅 2026-11-01 - Open source compliance automation focused on continuous integration workflows.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 387 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 288 | 🐛 44 | 🌐 Python | 📅 2026-10-29 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) ⭐ 63 | 🐛 7 | 📅 2026-10-27 - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents.
@@ -252,4 +252,4 @@ Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
