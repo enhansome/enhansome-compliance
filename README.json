@@ -128,10 +128,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T11:29:59Z",
-                "open_issues": 305,
+                "open_issues": 307,
                 "owner": "aquasecurity",
                 "repo": "trivy",
-                "stars": 39075,
+                "stars": 39102,
                 "topics": [
                   "containers",
                   "devsecops",
@@ -164,11 +164,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T13:35:31Z",
-                "open_issues": 460,
+                "last_commit": "2026-11-07T01:32:02Z",
+                "open_issues": 474,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15184,
+                "stars": 15189,
                 "topics": [
                   "aws",
                   "azure",
@@ -210,7 +210,7 @@
                 "open_issues": 115,
                 "owner": "aquasecurity",
                 "repo": "kube-bench",
-                "stars": 8253,
+                "stars": 8254,
                 "topics": [
                   "cis-benchmark",
                   "cis-kubernetes-benchmark",
@@ -268,7 +268,7 @@
                 "open_issues": 56,
                 "owner": "cerbos",
                 "repo": "cerbos",
-                "stars": 4647,
+                "stars": 4649,
                 "topics": [
                   "abac",
                   "access-control",
@@ -305,11 +305,11 @@
                 "id": 694266896,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T00:45:32Z",
+                "last_commit": "2026-11-08T00:44:35Z",
                 "open_issues": 78,
                 "owner": "intuitem",
                 "repo": "ciso-assistant-community",
-                "stars": 4590,
+                "stars": 4596,
                 "topics": [
                   "audit",
                   "automation",
@@ -351,7 +351,7 @@
                 "open_issues": 52,
                 "owner": "trycompai",
                 "repo": "comp",
-                "stars": 2085,
+                "stars": 2086,
                 "topics": [
                   "ai",
                   "audit",
@@ -388,10 +388,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-06T23:34:08Z",
-                "open_issues": 84,
+                "open_issues": 86,
                 "owner": "getprobo",
                 "repo": "probo",
-                "stars": 1501,
+                "stars": 1502,
                 "topics": [
                   "compliance",
                   "gdpr",
@@ -730,7 +730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:19:19.907Z",
+    "last_updated": "2026-11-08T00:56:12.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome compliance resources, libraries, and tooling",

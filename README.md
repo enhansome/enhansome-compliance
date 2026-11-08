@@ -161,14 +161,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,075 | 🐛 305 | 🌐 Go | 📅 2026-11-06 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,184 | 🐛 460 | 🌐 Python | 📅 2026-11-06 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,253 | 🐛 115 | 🌐 Go | 📅 2026-10-26 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,102 | 🐛 307 | 🌐 Go | 📅 2026-11-06 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,189 | 🐛 474 | 🌐 Python | 📅 2026-11-07 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,254 | 🐛 115 | 🌐 Go | 📅 2026-10-26 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,870 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,647 | 🐛 56 | 🌐 Go | 📅 2026-11-06 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,590 | 🐛 78 | 🌐 Python | 📅 2026-11-07 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,085 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-04 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,501 | 🐛 84 | 🌐 Go | 📅 2026-11-06 - Open source compliance automation focused on continuous integration workflows.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,649 | 🐛 56 | 🌐 Go | 📅 2026-11-06 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,596 | 🐛 78 | 🌐 Python | 📅 2026-11-08 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,086 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-04 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,502 | 🐛 86 | 🌐 Go | 📅 2026-11-06 - Open source compliance automation focused on continuous integration workflows.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 387 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 290 | 🐛 44 | 🌐 Python | 📅 2026-11-03 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Unicis Platform](https://github.com/UnicisTech/unicis-platform-ce) ⭐ 109 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-27 - Self-hostable GRC platform (Apache-2.0) covering GDPR records of processing, transfer and privacy impact assessments, control mapping, risk and asset registers, and awareness training. ([Website](https://www.unicis.tech) | [Docs](https://www.unicis.tech/docs/))
@@ -253,4 +253,4 @@ Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
