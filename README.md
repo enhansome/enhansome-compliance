@@ -148,7 +148,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### EU Cybersecurity & AI Regulations
 
-* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 25 | 🐛 13 | 🌐 Python | 📅 2026-11-13 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 25 | 🐛 14 | 🌐 Python | 📅 2026-11-15 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 * [NeuralFlow](https://github.com/omergili/neuralflow) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-08 - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
 * [Systima Comply](https://github.com/systima-ai/comply) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-25 - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 * [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) - EU Network and Information Security Directive establishing cybersecurity requirements for critical infrastructure and digital services.
@@ -161,14 +161,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,346 | 🐛 315 | 🌐 Go | 📅 2026-11-14 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,243 | 🐛 491 | 🌐 Python | 📅 2026-11-13 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,260 | 🐛 113 | 🌐 Go | 📅 2026-10-26 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,877 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,380 | 🐛 315 | 🌐 Go | 📅 2026-11-14 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,244 | 🐛 492 | 🌐 Python | 📅 2026-11-13 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,259 | 🐛 113 | 🌐 Go | 📅 2026-10-26 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,879 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
 * [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,661 | 🐛 61 | 🌐 Go | 📅 2026-11-14 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,629 | 🐛 60 | 🌐 Python | 📅 2026-11-14 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,092 | 🐛 89 | 🌐 TypeScript | 📅 2026-11-13 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,521 | 🐛 92 | 🌐 Go | 📅 2026-11-14 - Open source compliance automation focused on continuous integration workflows.
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,633 | 🐛 59 | 🌐 Python | 📅 2026-11-15 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,094 | 🐛 93 | 🌐 TypeScript | 📅 2026-11-15 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,524 | 🐛 94 | 🌐 Go | 📅 2026-11-15 - Open source compliance automation focused on continuous integration workflows.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 388 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 291 | 🐛 44 | 🌐 Python | 📅 2026-11-13 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Unicis Platform](https://github.com/UnicisTech/unicis-platform-ce) ⭐ 110 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-27 - Self-hostable GRC platform (Apache-2.0) covering GDPR records of processing, transfer and privacy impact assessments, control mapping, risk and asset registers, and awareness training. ([Website](https://www.unicis.tech) | [Docs](https://www.unicis.tech/docs/))
@@ -253,4 +253,4 @@ Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
