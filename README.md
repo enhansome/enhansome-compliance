@@ -161,14 +161,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,602 | 🐛 327 | 🌐 Go | 📅 2026-11-20 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,301 | 🐛 511 | 🌐 Python | 📅 2026-11-20 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,264 | 🐛 114 | 🌐 Go | 📅 2026-11-16 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,883 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,665 | 🐛 58 | 🌐 Go | 📅 2026-11-19 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,657 | 🐛 73 | 🌐 Python | 📅 2026-11-21 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,109 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-18 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,539 | 🐛 99 | 🌐 Go | 📅 2026-11-21 - Open source compliance automation focused on continuous integration workflows.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,625 | 🐛 331 | 🌐 Go | 📅 2026-11-20 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,304 | 🐛 516 | 🌐 Python | 📅 2026-11-20 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,265 | 🐛 114 | 🌐 Go | 📅 2026-11-16 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,884 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,667 | 🐛 60 | 🌐 Go | 📅 2026-11-23 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,659 | 🐛 75 | 🌐 Python | 📅 2026-11-22 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,112 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-18 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,540 | 🐛 102 | 🌐 Go | 📅 2026-11-21 - Open source compliance automation focused on continuous integration workflows.
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 387 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 * [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 292 | 🐛 45 | 🌐 Python | 📅 2026-11-17 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Unicis Platform](https://github.com/UnicisTech/unicis-platform-ce) ⭐ 111 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-27 - Self-hostable GRC platform (Apache-2.0) covering GDPR records of processing, transfer and privacy impact assessments, control mapping, risk and asset registers, and awareness training. ([Website](https://www.unicis.tech) | [Docs](https://www.unicis.tech/docs/))
@@ -253,4 +253,4 @@ Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
