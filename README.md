@@ -148,7 +148,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### EU Cybersecurity & AI Regulations
 
-* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 25 | 🐛 14 | 🌐 Python | 📅 2026-11-15 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+* [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 25 | 🐛 13 | 🌐 Python | 📅 2026-11-23 - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 * [NeuralFlow](https://github.com/omergili/neuralflow) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-08 - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
 * [Systima Comply](https://github.com/systima-ai/comply) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-25 - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 * [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) - EU Network and Information Security Directive establishing cybersecurity requirements for critical infrastructure and digital services.
@@ -161,16 +161,16 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Open Source Platforms
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,625 | 🐛 331 | 🌐 Go | 📅 2026-11-20 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,304 | 🐛 516 | 🌐 Python | 📅 2026-11-20 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,265 | 🐛 114 | 🌐 Go | 📅 2026-11-16 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 39,665 | 🐛 333 | 🌐 Go | 📅 2026-11-23 - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 15,315 | 🐛 434 | 🌐 Python | 📅 2026-11-23 - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,271 | 🐛 114 | 🌐 Go | 📅 2026-11-23 - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,884 | 🐛 298 | 🌐 Python | 📅 2025-09-23 - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
-* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,667 | 🐛 60 | 🌐 Go | 📅 2026-11-23 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
-* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,659 | 🐛 75 | 🌐 Python | 📅 2026-11-22 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
-* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,112 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-18 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-* [Probo](https://github.com/getprobo/probo) ⭐ 1,540 | 🐛 102 | 🌐 Go | 📅 2026-11-21 - Open source compliance automation focused on continuous integration workflows.
-* [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 387 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
-* [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 292 | 🐛 45 | 🌐 Python | 📅 2026-11-17 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
+* [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ⭐ 4,672 | 🐛 77 | 🌐 Python | 📅 2026-11-23 - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
+* [Cerbos](https://github.com/cerbos/cerbos) ⭐ 4,669 | 🐛 57 | 🌐 Go | 📅 2026-11-23 - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
+* [Comp AI](https://github.com/trycompai/comp) ⭐ 2,118 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-23 - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+* [Probo](https://github.com/getprobo/probo) ⭐ 1,543 | 🐛 88 | 🌐 Go | 📅 2026-11-23 - Open source compliance automation focused on continuous integration workflows.
+* [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) ⭐ 388 | 🐛 49 | 🌐 Go | 📅 2026-02-16 - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
+* [Trestle](https://github.com/IBM/compliance-trestle) ⭐ 293 | 🐛 45 | 🌐 Python | 📅 2026-11-23 - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 * [Unicis Platform](https://github.com/UnicisTech/unicis-platform-ce) ⭐ 111 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-27 - Self-hostable GRC platform (Apache-2.0) covering GDPR records of processing, transfer and privacy impact assessments, control mapping, risk and asset registers, and awareness training. ([Website](https://www.unicis.tech) | [Docs](https://www.unicis.tech/docs/))
 * [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) ⭐ 67 | 🐛 7 | 📅 2026-10-27 - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents.
 * [Signet](https://github.com/Prismer-AI/signet) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-11-10 - Cryptographic action receipts for AI agents with Ed25519 signing, hash-chained audit trail, bilateral co-signing, policy engine, and MCP proxy (Apache-2.0 / MIT). Offline-verifiable evidence for every tool call — independent of any provider. ([npm](https://www.npmjs.com/package/@signet-auth/core) | [PyPI](https://pypi.org/project/signet-auth/) | [crates.io](https://crates.io/crates/signet-core))
@@ -253,4 +253,4 @@ Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
